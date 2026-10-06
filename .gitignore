@@ -1,0 +1,10 @@
+# Archivos intermedios de ANTLR
+*.tokens
+*.interp
+
+# Caché compilada de Python
+__pycache__/
+*.pyc
+
+# Archivos ocultos generados por macOS
+.DS_Store
