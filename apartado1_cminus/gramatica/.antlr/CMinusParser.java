@@ -123,14 +123,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_program; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterProgram(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitProgram(this);
-		}
 	}
 
 	public final ProgramContext program() throws RecognitionException {
@@ -168,14 +160,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_declaration_list; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterDeclaration_list(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitDeclaration_list(this);
-		}
 	}
 
 	public final Declaration_listContext declaration_list() throws RecognitionException {
@@ -224,14 +208,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_declaration; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterDeclaration(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitDeclaration(this);
-		}
 	}
 
 	public final DeclarationContext declaration() throws RecognitionException {
@@ -282,14 +258,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_var_declaration; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterVar_declaration(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitVar_declaration(this);
-		}
 	}
 
 	public final Var_declarationContext var_declaration() throws RecognitionException {
@@ -350,14 +318,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_type_specifier; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterType_specifier(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitType_specifier(this);
-		}
 	}
 
 	public final Type_specifierContext type_specifier() throws RecognitionException {
@@ -408,14 +368,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_fun_declaration; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterFun_declaration(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitFun_declaration(this);
-		}
 	}
 
 	public final Fun_declarationContext fun_declaration() throws RecognitionException {
@@ -459,14 +411,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_params; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterParams(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitParams(this);
-		}
 	}
 
 	public final ParamsContext params() throws RecognitionException {
@@ -519,14 +463,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_param_list; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterParam_list(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitParam_list(this);
-		}
 	}
 
 	public final Param_listContext param_list() throws RecognitionException {
@@ -579,14 +515,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_param; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterParam(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitParam(this);
-		}
 	}
 
 	public final ParamContext param() throws RecognitionException {
@@ -639,14 +567,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_compound_stmt; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterCompound_stmt(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitCompound_stmt(this);
-		}
 	}
 
 	public final Compound_stmtContext compound_stmt() throws RecognitionException {
@@ -688,14 +608,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_local_declarations; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterLocal_declarations(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitLocal_declarations(this);
-		}
 	}
 
 	public final Local_declarationsContext local_declarations() throws RecognitionException {
@@ -744,14 +656,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_statement_list; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterStatement_list(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitStatement_list(this);
-		}
 	}
 
 	public final Statement_listContext statement_list() throws RecognitionException {
@@ -809,14 +713,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_statement; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterStatement(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitStatement(this);
-		}
 	}
 
 	public final StatementContext statement() throws RecognitionException {
@@ -895,14 +791,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_expression_stmt; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterExpression_stmt(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitExpression_stmt(this);
-		}
 	}
 
 	public final Expression_stmtContext expression_stmt() throws RecognitionException {
@@ -956,14 +844,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_selection_stmt; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterSelection_stmt(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitSelection_stmt(this);
-		}
 	}
 
 	public final Selection_stmtContext selection_stmt() throws RecognitionException {
@@ -1030,14 +910,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_iteration_stmt; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterIteration_stmt(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitIteration_stmt(this);
-		}
 	}
 
 	public final Iteration_stmtContext iteration_stmt() throws RecognitionException {
@@ -1136,14 +1008,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_return_stmt; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterReturn_stmt(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitReturn_stmt(this);
-		}
 	}
 
 	public final Return_stmtContext return_stmt() throws RecognitionException {
@@ -1196,14 +1060,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_expression; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterExpression(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitExpression(this);
-		}
 	}
 
 	public final ExpressionContext expression() throws RecognitionException {
@@ -1260,14 +1116,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_or_expr; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterOr_expr(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitOr_expr(this);
-		}
 	}
 
 	public final Or_exprContext or_expr() throws RecognitionException {
@@ -1324,14 +1172,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_and_expr; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterAnd_expr(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitAnd_expr(this);
-		}
 	}
 
 	public final And_exprContext and_expr() throws RecognitionException {
@@ -1384,14 +1224,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_var; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterVar(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitVar(this);
-		}
 	}
 
 	public final VarContext var() throws RecognitionException {
@@ -1444,14 +1276,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_simple_expression; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterSimple_expression(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitSimple_expression(this);
-		}
 	}
 
 	public final Simple_expressionContext simple_expression() throws RecognitionException {
@@ -1500,14 +1324,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_relop; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterRelop(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitRelop(this);
-		}
 	}
 
 	public final RelopContext relop() throws RecognitionException {
@@ -1555,14 +1371,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_additive_expression; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterAdditive_expression(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitAdditive_expression(this);
-		}
 	}
 
 	public final Additive_expressionContext additive_expression() throws RecognitionException {
@@ -1630,14 +1438,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_addop; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterAddop(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitAddop(this);
-		}
 	}
 
 	public final AddopContext addop() throws RecognitionException {
@@ -1684,14 +1484,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_unary_expr; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterUnary_expr(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitUnary_expr(this);
-		}
 	}
 
 	public final Unary_exprContext unary_expr() throws RecognitionException {
@@ -1761,14 +1553,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_term; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterTerm(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitTerm(this);
-		}
 	}
 
 	public final TermContext term() throws RecognitionException {
@@ -1837,14 +1621,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_mulop; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterMulop(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitMulop(this);
-		}
 	}
 
 	public final MulopContext mulop() throws RecognitionException {
@@ -1898,14 +1674,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_factor; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterFactor(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitFactor(this);
-		}
 	}
 
 	public final FactorContext factor() throws RecognitionException {
@@ -1993,14 +1761,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_call; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterCall(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitCall(this);
-		}
 	}
 
 	public final CallContext call() throws RecognitionException {
@@ -2039,14 +1799,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_args; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterArgs(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitArgs(this);
-		}
 	}
 
 	public final ArgsContext args() throws RecognitionException {
@@ -2095,14 +1847,6 @@ public class CMinusParser extends Parser {
 			super(parent, invokingState);
 		}
 		@Override public int getRuleIndex() { return RULE_arg_list; }
-		@Override
-		public void enterRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).enterArg_list(this);
-		}
-		@Override
-		public void exitRule(ParseTreeListener listener) {
-			if ( listener instanceof CMinusListener ) ((CMinusListener)listener).exitArg_list(this);
-		}
 	}
 
 	public final Arg_listContext arg_list() throws RecognitionException {
