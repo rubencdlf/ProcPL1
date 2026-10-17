@@ -91,6 +91,7 @@ INT : 'int' ;
 RETURN : 'return' ;
 VOID : 'void' ;
 WHILE : 'while' ;
+
 // Añadidas para el Nivel Medio:
 FOR : 'for' ;
 CHAR : 'char' ;

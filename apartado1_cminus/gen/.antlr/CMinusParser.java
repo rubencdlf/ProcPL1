@@ -1,4 +1,4 @@
-// Generated from /Users/rubens/Documents/ProcPL1/CMinus.g4 by ANTLR 4.13.1
+// Generated from c:/Users/aleja/Desktop/Antlr/ProcPL1/apartado1_cminus/CMinus.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
