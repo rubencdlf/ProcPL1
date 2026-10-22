@@ -164,7 +164,7 @@ SHUFFLE:     'shuffled' ;
 DISCARD:     'discarded' ;
 SWITCH_VERB: 'switched' ; 
 KNOCK_OUT:   'Knocked Out' ;
-TAKE:        'took' | 'taken' | 'taken.' ;
+TAKE:        'took' | 'taken' ;
 END:         'ended' ;
 
 
@@ -173,40 +173,15 @@ END:         'ended' ;
 // ==========================================
 ID_CARD: ID_POKEMON | ID_ENERGY_CARD | ID_TRAINER | ID_ABILITY | ID_ATTACK ;
 
-fragment ID_POKEMON: 'Makuhita' 
-                   | 'Okidogi' 
-                   | 'Mega Lucario ex' 
-                   | 'Solrock'
-                   | 'Riolu'
-                   | 'Hariyama'
-                   | 'Meowth ex'
-                   | 'Lunatone'
-                   | 'Fezandipiti ex' ;
+fragment ID_POKEMON: 'Makuhita' | 'Okidogi' | 'Mega Lucario ex' | 'Solrock' | 'Riolu' | 'Hariyama' | 'Meowth ex' | 'Lunatone' | 'Fezandipiti ex' | 'Teal Mask Ogerpon ex' | 'Chikorita' | 'Bayleef' | 'Meganium' | 'Bulbasaur' | 'Ivysaur' | 'Mega Venusaur ex' | 'Frillish' | 'Jellicent ex' | 'Steven\'s Beldum' | 'Steven\'s Metang' | 'Steven\'s Metagross ex' | 'Mega Mawile ex' | 'Genesect ex' | 'Deino' | 'Zweilous' | 'Hydreigon ex' | 'Mew ex' | 'Latios' | 'Dusclops' | 'Dreepy' | 'Drakloak' | 'Dragapult ex' | 'Lillie\'s Clefairy ex' | 'Mega Skarmory ex' | 'N\'s Zorua' | 'N\'s Zoroark ex' | 'Pecharunt ex' | 'N\'s Darumaka' | 'N\'s Reshiram' | 'N\'s Darmanitan' | 'Fan Rotom' | 'Hoothoot' | 'Noctowl' | 'Dusknoir' ;
 
-fragment ID_ENERGY_CARD: 'Basic Fighting Energy' 
-                       | 'Rocky Fighting Energy' ;
+fragment ID_ENERGY_CARD: 'Basic Fighting Energy' | 'Rocky Fighting Energy' | 'Basic Grass Energy' | 'Basic Psychic Energy' | 'Basic Metal Energy' | 'Basic Darkness Energy' | 'Basic Fire Energy' | 'Prism Energy' ;
 
-fragment ID_TRAINER: 'Lillie\'s Determination' 
-                   | 'Fighting Gong'
-                   | 'Poké Pad'
-                   | 'Switch'
-                   | 'Night Stretcher'
-                   | 'Premium Power Pro'
-                   | 'Ultra Ball'
-                   | 'Judge'
-                   | 'Tarragon'
-                   | 'Team Rocket\'s Petrel'
-                   | 'Gravity Mountain'
-                   | 'Air Balloon' ;
+fragment ID_TRAINER: 'Lillie\'s Determination' | 'Fighting Gong' | 'Poké Pad' | 'Switch' | 'Night Stretcher' | 'Premium Power Pro' | 'Ultra Ball' | 'Judge' | 'Tarragon' | 'Team Rocket\'s Petrel' | 'Gravity Mountain' | 'Air Balloon' | 'Bug Catching Set' | 'Forest of Vitality' | 'Wally\'s Compassion' | 'Grand Tree' | 'Colress\'s Tenacity' | 'Lana\'s Aid' | 'Salvatore' | 'Energy Recycler' | 'Buddy-Buddy Poffin' | 'Full Metal Lab' | 'Rare Candy' | 'Dawn' | 'Unfair Stamp' | 'Black Belt\'s Training' | 'Scramble Switch' | 'Maximum Belt' | 'Energy Search' | 'Crispin' | 'N\'s Castle' | 'N\'s PP Up' | 'Hero\'s Cape' | 'Redeemable Ticket' | 'Cyrano' ;
 
-fragment ID_ABILITY: 'Last-Ditch Catch'
-                   | 'Lunar Cycle'
-                   | 'Flip the Script'
-                   | 'Heave-Ho Catcher' ;
+fragment ID_ABILITY: 'Last-Ditch Catch' | 'Lunar Cycle' | 'Flip the Script' | 'Heave-Ho Catcher' | 'Teal Dance' | 'Solar Transfer' | 'Metallic Signal' | 'Trade' | 'Subjugating Chains' | 'Fan Call' ;
 
-fragment ID_ATTACK: 'Aura Jab'
-                  | 'Mega Brave'
-                  | 'Wild Press' ;
+fragment ID_ATTACK: 'Aura Jab' | 'Mega Brave' | 'Wild Press' | 'Accelerating Stab' | 'Jungle Dump' | 'Razor Leaf' | 'Power Press' | 'Metal Stomp' | 'Gobble Down' | 'Huge Bite' | 'Myriad Leaf Shower' | 'Sonic Ripper' | 'Bind Down' | 'Cruel Arrow' | 'Teleportation Burst' | 'Obsidian' | 'Bite' | 'Dragon Headbutt' | 'X-Boot' ;
 
 
 // ==========================================
