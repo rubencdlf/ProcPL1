@@ -1,0 +1,67 @@
+
+Setup
+DudeJaden chose heads for the opening coin flip.
+DudeJaden won the coin toss.
+DudeJaden decided to go first.
+DudeJaden drew 7 cards for the opening hand.
+- 7 drawn cards.
+DrCompiler drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Fighting Energy, Makuhita, Basic Fighting Energy, Okidogi, Lillie's Determination, Mega Lucario ex, Boss's Orders
+DudeJaden played Makuhita to the Active Spot.
+DudeJaden played Solrock to the Bench.
+DrCompiler played Makuhita to the Active Spot.
+DrCompiler played Okidogi to the Bench.
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Fighting Gong.
+- DudeJaden drew Riolu.
+- DudeJaden shuffled their deck.
+DudeJaden played Riolu to the Bench.
+DudeJaden attached Rocky Fighting Energy to Riolu on the Bench.
+DudeJaden ended their turn.
+
+DrCompiler's Turn
+DrCompiler drew Makuhita.
+DrCompiler played Makuhita to the Bench.
+DrCompiler attached Basic Fighting Energy to Okidogi on the Bench.
+DrCompiler played Lillie's Determination.
+- DrCompiler shuffled 3 cards into their deck.
+   • Basic Fighting Energy, Mega Lucario ex, Boss's Orders
+- DrCompiler drew 8 cards.
+   • Basic Fighting Energy, Basic Fighting Energy, Lillie's Determination, Poké Pad, Fighting Gong, Lunatone, Mega Lucario ex, Lillie's Determination
+DrCompiler played Lunatone to the Bench.
+DrCompiler played Fighting Gong.
+- DrCompiler drew Riolu.
+- DrCompiler shuffled their deck.
+DrCompiler played Riolu to the Bench.
+DrCompiler played Poké Pad.
+- DrCompiler drew Hariyama.
+- DrCompiler shuffled their deck.
+DrCompiler ended their turn.
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Riolu to the Bench.
+DudeJaden played Meowth ex to the Bench.
+DudeJaden's Meowth ex used Last-Ditch Catch.
+- DudeJaden drew Lillie's Determination.
+- DudeJaden shuffled their deck.
+DudeJaden played Lillie's Determination.
+- DudeJaden shuffled 3 cards into their deck.
+- DudeJaden drew 8 cards.
+DudeJaden played Solrock to the Bench.
+DudeJaden evolved Riolu to Mega Lucario ex on the Bench.
+DudeJaden played Switch.
+- DudeJaden's Mega Lucario ex was switched with DudeJaden's Makuhita to become the Active Pokémon.
+DudeJaden's Mega Lucario ex is now in the Active Spot.
+DudeJaden attached Basic Fighting Energy to Mega Lucario ex in the Active Spot.
+DudeJaden's Mega Lucario ex used Aura Jab on DrCompiler’s Makuhita for 130 damage.
+DrCompiler's Makuhita was Knocked Out!
+DudeJaden took a Prize card.
+A card was added to DudeJaden's hand.
+DrCompiler's Riolu is now in the Active Spot.
+
+
+DrCompiler wins.

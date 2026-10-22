@@ -1,134 +1,230 @@
 grammar PokemonLog;
 
+// =========================================================================
+// 1. REGLAS SINTÁCTICAS (PARSER)
+// =========================================================================
 
-//Regla inicial, punto de entrada al programa
-start_game: setup_block EOF; //Ponemos end of file
+// 0. Regla inicial
+start_game:     setup_block 
+                players_turns+ 
+                player_won  
+                EOF ; 
 
+// 1. Bloque de preparación
 setup_block:    SETUP 
                 coin_selection 
                 coin_result 
                 first_decision
                 drew_result* 
-                initial_play* 
-                player_won;
-//===========================
-//Reglas sintacticas (parser)
-//===========================
+                initial_play* ;
 
-//Personaje elige moneda
-coin_selection: ID_PLAYER CHOOSE (HEADS | TAILS) FOR THE OPENING COIN FLIP DOT;
-coin_result: ID_PLAYER WIN THE COIN TOSS DOT;
-first_decision: ID_PLAYER DECIDE TO GO FIRST DOT;
-cards_list: DASH ID_CARD (COMMA ID_CARD)*; //CAMBIAR A BULLET EN VEZ DE DASH (PROVISIONAL POR EL COMPILADOR)
+coin_selection: id_player CHOOSE (HEADS | TAILS) FOR THE OPENING COIN FLIP DOT ;
+coin_result:    id_player WIN THE COIN TOSS DOT ;
+first_decision: id_player DECIDE TO GO FIRST DOT ;
+drew_result:    id_player DRAW NUM CARD FOR THE OPENING HAND DOT 
+                DASH NUM DRAW CARD DOT 
+                cards_list? ;
 
-drew_result: ID_PLAYER DRAW NUM CARD FOR THE OPENING HAND DOT DASH NUM DRAW CARD DOT cards_list?;
+cards_list:     BULLET ID_CARD (COMMA ID_CARD)* ;
 
+initial_play:   player_plays_active_spot
+            |   player_plays_bench ;
 
-initial_play: ID_PLAYER PLAY ID_CARD TO THE ACTIVE SPOT DOT
-            | ID_PLAYER PLAY ID_CARD TO THE BENCH DOT ;
+// 2. Bucle de turnos
+players_turns:  player_starts_turn
+                player_plays*
+                player_ends_turn ;
 
-player_won: ID_PLAYER WIN DOT;
+// Cabeceras (El posesivo ya va incluido dentro de id_player)
+player_starts_turn: id_player TURN ;
+player_ends_turn:   id_player END THEIR TURN DOT ;
 
+// Bucle de acciones
+player_plays:   player_draw_card 
+            |   player_played_card 
+            |   player_plays_active_spot 
+            |   player_plays_bench 
+            |   player_attaches_card 
+            |   player_shuffled
+            |   player_sub_draw 
+            |   player_evolve
+            |   player_retreated
+            |   player_switch
+            |   player_used_ability
+            |   player_attack 
+            |   consecuencia_combate ;
 
-//============================================
-//Reglas léxicas (lexer o palabras reservadas)
-//============================================
-//Palabra reservada de iniciación (Setup)
-SETUP: 'Setup';
+// --- Acciones de robo y mazo ---
+player_draw_card: id_player DRAW (A CARD | ID_CARD) DOT cards_list? ;
+player_sub_draw:  DASH id_player DRAW (ID_CARD | NUM CARD) DOT cards_list? ;
+player_shuffled:  DASH id_player SHUFFLE (NUM CARD INTO)? THEIR DECK DOT cards_list? ;
 
+// --- Acciones de tablero ---
+player_played_card:       id_player PLAY ID_CARD DOT ;
+player_plays_active_spot: id_player PLAY ID_CARD TO THE ACTIVE_SPOT DOT ;
+player_plays_bench:       id_player PLAY ID_CARD TO THE BENCH DOT ;
+player_attaches_card:     id_player ATTACH ID_CARD TO ID_CARD (ON THE BENCH | IN THE ACTIVE_SPOT) DOT ;
 
-//Palabras generales (preposiciones, determinantes ...)
-FOR : 'for' ;
-THE : 'the' ;
-TO: 'to';
+player_evolve:            id_player EVOLVE ID_CARD TO ID_CARD (IN THE ACTIVE_SPOT | ON THE BENCH) DOT ;
+player_retreated:         id_player RETREAT ID_CARD TO THE BENCH DOT DASH NUM CARD BE DISCARD FROM id_player ID_CARD DOT cards_list? ;
 
+// --- Cambios de Pokémon ---
+player_switch:            id_player PLAY ID_CARD DOT 
+                          DASH id_player ID_CARD BE SWITCH_VERB WITH id_player ID_CARD TO BECOME THE ACTIVE POKEMON DOT 
+                          id_player ID_CARD BE NOW IN THE ACTIVE_SPOT DOT ;
 
-//Elección de moneda
-HEADS: 'heads';
-TAILS: 'tails';
+// --- Habilidades y Ataques ---
+player_used_ability:      id_player ID_CARD USE ID_CARD DOT cards_list? ;
 
-OPENING : 'opening' ;
-COIN: 'coin' ;
-FLIP: 'flip' ;
+player_attack:            id_player ID_CARD USE ID_CARD ON id_player ID_CARD FOR NUM DAMAGE DOT damage_breakdown? ;
 
-FIRST: 'first';
-TOSS: 'toss';
+// Desglose del daño opcional tras atacar
+damage_breakdown:         DASH DAMAGE BREAKDOWN COLON
+                          BULLET BASE DAMAGE COLON NUM DAMAGE
+                          BULLET PAREN_IZQ ITEM PAREN_DER ID_CARD COLON NUM DAMAGE
+                          BULLET TOTAL DAMAGE COLON NUM DAMAGE ;
 
-//Selección de cartas
-CARD: 'card' ('s')?;
-HAND: 'hand';
+// Consecuencias independientes tras un ataque
+consecuencia_combate:     id_player ID_CARD BE KNOCK_OUT EXCLAMATION (DASH NUM CARD BE DISCARD FROM id_player ID_CARD DOT cards_list? | ID_CARD BE DISCARD FROM id_player ID_CARD DOT)?
+                    |     id_player TAKE (A | NUM) PRIZE CARD DOT 
+                    |     (A CARD | ID_CARD) BE ADD TO id_player HAND DOT 
+                    |     id_player ID_CARD BE NOW IN THE ACTIVE_SPOT DOT 
+                    |     id_player PLAY PRIME_CATCHER DOT DASH id_player ID_CARD BE SWITCH_VERB WITH id_player ID_CARD TO BECOME THE ACTIVE POKEMON DOT DASH id_player ID_CARD BE SWITCH_VERB WITH id_player ID_CARD TO BECOME THE ACTIVE POKEMON DOT id_player ID_CARD BE NOW IN THE ACTIVE_SPOT DOT id_player ID_CARD BE NOW IN THE ACTIVE_SPOT DOT
+                    |     id_player PLAY BOSS_ORDERS DOT DASH id_player ID_CARD BE SWITCH_VERB WITH id_player ID_CARD TO BECOME THE ACTIVE POKEMON DOT id_player ID_CARD BE NOW IN THE ACTIVE_SPOT DOT ;
 
-ACTIVE: 'active';
-SPOT: 'spot';
-BENCH: 'bench';
+// 3. Fin de la partida
+player_won: ALL PRIZE CARD TAKE DOT id_player WIN DOT ;               
 
-//Verbos
-//Verbos de estado y auxiliares
-BE: 'is' | 'was' | 'were' ;
-GO: 'go';
-
-// De preparación y victoria
-CHOOSE: 'chose' ;
-DECIDE: 'decided' ;
-WIN: 'won' | 'wins' ;
-CONCEDE: 'conceded' ;
-
-// ACCIONES DE ROBO Y MANO
-DRAW: 'drew' | 'drawn' ; //robar
-ADD: 'added' ;
-
-// ACCIONES DE TABLERO Y CARTAS
-PLAY: 'played' ;
-ATTACH: 'attached' ;
-EVOLVE: 'evolved' ;
-USE: 'used' ;
-RETREAT: 'retreated' ;
-MOVE: 'moved' ;
-SHUFFLE: 'shuffled' ;
-DISCARD: 'discarded' ;
-SWITCH: 'switched' ;
-
-// ACCIONES DE COMBATE Y PREMIOS
-KNOCK_OUT: 'Knocked Out' ;
-TAKE: 'took' | 'taken' ;
-
-// ACCIONES DE TURNO
-END: 'ended' ;
+// Comodín para el jugador (Ahora absorbe opcionalmente el posesivo de forma nativa)
+id_player: ID_TOKEN ;
 
 
-//CORREGIR LOS NOMBRES PROVISIONALES
-//Nombres de las barajas
-//ID_DECK : [a-zA-Z0-9]+; estan mal porque son lo mismo que idplayer
+// =========================================================================
+// 2. REGLAS LÉXICAS (LEXER)
+// =========================================================================
 
-//Nombres de las cartas
-ID_CARD: ID_POKEMON | ID_ENERGY_CARD | ID_POKEMON_TRAINER ;
+// --- Cabeceras y zonas ---
+SETUP:       'Setup' ;
+ACTIVE_SPOT: 'Active Spot' ;
+BENCH:       'Bench' ;
+ACTIVE:      'Active' ;
+POKEMON:     'Pokémon' ; // Obligatorio UTF-8
+TURN:        ('t'|'T')'urn' ;
 
-//fragment indica al analizador sintactico que solo se tiene que enviar el valor superior (id_card)
+// --- Preposiciones, artículos y palabras clave ---
+FOR:        'for' ;
+THE:        'the' ;
+TO:         'to' ;
+IN:         'in' ;
+A:          'a' ;
+ON:         'on' ;
+THEIR:      'their' ;
+DECK:       'deck' ;
+INTO:       'into' ;
+NOW:        'now' ;
+WITH:       'with' ;
+BECOME:     'become' ;
+HEADS:      'heads' ;
+TAILS:      'tails' ;
+OPENING:    'opening' ;
+COIN:       'coin' ;
+FLIP:       'flip' ;
+FIRST:      'first' ;
+TOSS:       'toss' ;
+CARD:       'card' ('s')? ;
+HAND:       'hand' ;
+DAMAGE:     'damage' ;
+PRIZE:      'Prize' ;
+ALL:        'All' ;
+BREAKDOWN:  'breakdown' ;
+BASE:       'Base' ;
+TOTAL:      'Total' ;
+ITEM:       'Item' ;
+FROM:       'from' ;
+PRIME_CATCHER: 'Prime Catcher' ;
+BOSS_ORDERS: 'Boss\'s Orders' ;
+
+
+// --- Verbos ---
+BE:          'is' | 'was' | 'were' | 'are' ;
+GO:          'go' ;
+CHOOSE:      'chose' ;
+DECIDE:      'decided' ;
+WIN:         'won' | 'wins' ;
+CONCEDE:     'conceded' ;
+DRAW:        'drew' | 'drawn' ; 
+ADD:         'added' ;
+PLAY:        'played' ;
+ATTACH:      'attached' ;
+EVOLVE:      'evolved' ;
+USE:         'used' ;
+RETREAT:     'retreated' ;
+MOVE:        'moved' ;
+SHUFFLE:     'shuffled' ;
+DISCARD:     'discarded' ;
+SWITCH_VERB: 'switched' ; 
+KNOCK_OUT:   'Knocked Out' ;
+TAKE:        'took' | 'taken' | 'taken.' ;
+END:         'ended' ;
+
+
+// ==========================================
+// NOMBRES DE LAS CARTAS (El token unificado)
+// ==========================================
+ID_CARD: ID_POKEMON | ID_ENERGY_CARD | ID_TRAINER | ID_ABILITY | ID_ATTACK ;
+
 fragment ID_POKEMON: 'Makuhita' 
                    | 'Okidogi' 
                    | 'Mega Lucario ex' 
-                   | 'Riolu' ;
+                   | 'Solrock'
+                   | 'Riolu'
+                   | 'Hariyama'
+                   | 'Meowth ex'
+                   | 'Lunatone'
+                   | 'Fezandipiti ex' ;
 
-fragment ID_ENERGY_CARD: 'Basic Fighting Energy' ;
+fragment ID_ENERGY_CARD: 'Basic Fighting Energy' 
+                       | 'Rocky Fighting Energy' ;
 
-fragment ID_POKEMON_TRAINER: 'Lillie\'s Determination' 
-                           | 'Boss\'s Orders' ;
+fragment ID_TRAINER: 'Lillie\'s Determination' 
+                   | 'Fighting Gong'
+                   | 'Poké Pad'
+                   | 'Switch'
+                   | 'Night Stretcher'
+                   | 'Premium Power Pro'
+                   | 'Ultra Ball'
+                   | 'Judge'
+                   | 'Tarragon'
+                   | 'Team Rocket\'s Petrel'
+                   | 'Gravity Mountain'
+                   | 'Air Balloon' ;
+
+fragment ID_ABILITY: 'Last-Ditch Catch'
+                   | 'Lunar Cycle'
+                   | 'Flip the Script'
+                   | 'Heave-Ho Catcher' ;
+
+fragment ID_ATTACK: 'Aura Jab'
+                  | 'Mega Brave'
+                  | 'Wild Press' ;
 
 
-//=============================
-//Caracteres especiales y otros
-DOT    : '.' ;
-DASH   : '-' ;
-COMMA  : ',' ;
-BULLET : '•' ;
+// ==========================================
+// CARACTERES ESPECIALES
+// ==========================================
+DOT:         '.' ;
+DASH:        '-' ;
+COMMA:       ',' ;
+BULLET:      '•' ;
+EXCLAMATION: '!' ;
+COLON:       ':' ;
+PAREN_IZQ:   '(' ;
+PAREN_DER:   ')' ;
 
-//Números
-NUM : [0-9]+ ;
-//Personajes: al final por la prioridad de los archivos, si no coincide ninguno significa que es un nombre
-ID_PLAYER : [a-zA-Z0-9]+ ('\'s')?;
-
-
-WS : [ \t\r\n]+ -> skip; //Fundamental para ignorar las tabulaciones, las lineas siguientes y retornos de carro
-
-//=============================
-
+// ==========================================
+// COMODINES
+// ==========================================
+NUM:      [0-9]+ ;
+// Este token absorbe un nombre alfanumérico y, OPCIONALMENTE, un apóstrofe y una s pegados.
+ID_TOKEN: [a-zA-Z0-9]+ (('\''|'’')'s')? ;
+WS:       [ \t\r\n]+ -> skip ;
