@@ -1,0 +1,336 @@
+Setup
+MarioCastano chose tails for the opening coin flip.
+kblamo_ won the coin toss.
+kblamo_ decided to go second.
+MarioCastano drew 7 cards for the opening hand.
+- 7 drawn cards.
+kblamo_ drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Gravity Mountain, Hariyama, Basic Fighting Energy, Basic Fighting Energy, Lillie's Determination, Gravity Mountain, Lunatone
+MarioCastano played Fezandipiti ex to the Active Spot.
+MarioCastano played Steven's Beldum to the Bench.
+kblamo_ played Lunatone to the Active Spot.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano played Poké Pad.
+- MarioCastano drew Deino.
+- MarioCastano shuffled their deck.
+MarioCastano played Deino to the Bench.
+MarioCastano attached Basic Darkness Energy to Deino on the Bench.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Premium Power Pro.
+kblamo_ played Premium Power Pro.
+kblamo_ attached Basic Fighting Energy to Lunatone in the Active Spot.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 4 cards into their deck.
+   • Gravity Mountain, Hariyama, Basic Fighting Energy, Gravity Mountain
+- kblamo_ drew 8 cards.
+   • Fighting Gong, Tarragon, Basic Fighting Energy, Mega Lucario ex, Salvatore, Judge, Lillie's Determination, Ultra Ball
+kblamo_ played Fighting Gong.
+- kblamo_ drew Basic Fighting Energy.
+- kblamo_ shuffled their deck.
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Salvatore, Tarragon
+- kblamo_ drew Fezandipiti ex.
+- kblamo_ shuffled their deck.
+kblamo_ played Fezandipiti ex to the Bench.
+kblamo_ ended their turn.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano evolved Deino to Zweilous on the Bench.
+MarioCastano played Boss's Orders.
+- kblamo_'s Fezandipiti ex was switched with kblamo_'s Lunatone to become the Active Pokémon.
+kblamo_'s Fezandipiti ex is now in the Active Spot.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Lillie's Determination.
+kblamo_ attached Basic Fighting Energy to Fezandipiti ex in the Active Spot.
+kblamo_ ended their turn.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano evolved Zweilous to Hydreigon ex on the Bench.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Makuhita.
+kblamo_ played Makuhita to the Bench.
+kblamo_ attached Basic Fighting Energy to Fezandipiti ex in the Active Spot.
+kblamo_ played Judge.
+- kblamo_ shuffled 3 cards into their deck.
+   • Mega Lucario ex, Lillie's Determination, Lillie's Determination
+- MarioCastano shuffled 3 cards into their deck.
+- kblamo_ drew 4 cards.
+   • Lillie's Determination, Riolu, Meowth ex, Mega Lucario ex
+- MarioCastano drew 4 cards.
+kblamo_ played Riolu to the Bench.
+kblamo_ played Meowth ex to the Bench.
+kblamo_'s Meowth ex used Last-Ditch Catch.
+- kblamo_ drew Boss's Orders.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano played Ultra Ball.
+- MarioCastano discarded 2 cards.
+   • Buddy-Buddy Poffin, Black Belt's Training
+- MarioCastano drew Genesect ex.
+- MarioCastano shuffled their deck.
+MarioCastano played Genesect ex to the Bench.
+MarioCastano's Genesect ex used Metallic Signal.
+- MarioCastano drew 2 cards.
+   • Steven's Metang, Steven's Metagross ex
+- MarioCastano shuffled their deck.
+MarioCastano evolved Steven's Beldum to Steven's Metang on the Bench.
+MarioCastano played Steven's Beldum to the Bench.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Basic Fighting Energy.
+kblamo_ attached Basic Fighting Energy to Fezandipiti ex in the Active Spot.
+kblamo_ played Boss's Orders.
+- MarioCastano's Steven's Beldum was switched with MarioCastano's Fezandipiti ex to become the Active Pokémon.
+MarioCastano's Steven's Beldum is now in the Active Spot.
+kblamo_ evolved Riolu to Mega Lucario ex on the Bench.
+kblamo_'s Fezandipiti ex used Cruel Arrow.
+- MarioCastano's Steven's Metang took 100 damage.
+MarioCastano's Steven's Metang was Knocked Out!
+Steven's Beldum was discarded from MarioCastano's Steven's Metang.
+kblamo_ took a Prize card.
+Night Stretcher was added to kblamo_'s hand.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano's Genesect ex used Metallic Signal.
+- MarioCastano drew Steven's Metagross ex.
+- MarioCastano shuffled their deck.
+MarioCastano attached Basic Metal Energy to Genesect ex on the Bench.
+MarioCastano's Fezandipiti ex used Flip the Script.
+- MarioCastano drew 3 cards.
+MarioCastano played Rare Candy.
+- MarioCastano evolved Steven's Beldum to Steven's Metagross ex in the Active Spot.
+MarioCastano's Steven's Metagross ex used X-Boot.
+- MarioCastano attached Basic Psychic Energy to Steven's Metagross ex in the Active Spot.
+- MarioCastano attached Basic Metal Energy to Steven's Metagross ex in the Active Spot.
+- MarioCastano shuffled their deck.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Basic Fighting Energy.
+kblamo_ attached Basic Fighting Energy to Mega Lucario ex on the Bench.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled Night Stretcher into their deck.
+- kblamo_ drew 6 cards.
+   • Riolu, Hariyama, Lunatone, Switch, Fighting Gong, Air Balloon
+kblamo_ evolved Makuhita to Hariyama on the Bench.
+kblamo_'s Hariyama used Heave-Ho Catcher.
+- MarioCastano's Fezandipiti ex was switched with MarioCastano's Steven's Metagross ex to become the Active Pokémon.
+MarioCastano's Fezandipiti ex is now in the Active Spot.
+kblamo_ played Lunatone to the Bench.
+kblamo_'s Fezandipiti ex used Cruel Arrow on MarioCastano’s Fezandipiti ex for 100 damage.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano played Mew ex to the Bench.
+MarioCastano attached Basic Psychic Energy to Hydreigon ex on the Bench.
+MarioCastano's Steven's Metagross ex used X-Boot.
+- MarioCastano attached Basic Psychic Energy to Steven's Metagross ex on the Bench.
+- MarioCastano attached Basic Metal Energy to Genesect ex on the Bench.
+- MarioCastano shuffled their deck.
+MarioCastano's Genesect ex used Metallic Signal.
+- MarioCastano shuffled their deck.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Team Rocket's Petrel.
+kblamo_ played Fighting Gong.
+- kblamo_ drew Basic Fighting Energy.
+- kblamo_ shuffled their deck.
+kblamo_ attached Air Balloon to Fezandipiti ex in the Active Spot.
+kblamo_'s Fezandipiti ex used Cruel Arrow on MarioCastano’s Fezandipiti ex for 100 damage.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano's Steven's Metagross ex used X-Boot.
+- MarioCastano shuffled their deck.
+MarioCastano played Buddy-Buddy Poffin.
+- MarioCastano drew Steven's Beldum and played it to the Bench.
+- MarioCastano shuffled their deck.
+MarioCastano ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew Poké Pad.
+kblamo_'s Fezandipiti ex used Cruel Arrow on MarioCastano’s Fezandipiti ex for 100 damage.
+MarioCastano's Fezandipiti ex was Knocked Out!
+kblamo_ took 2 Prize cards.
+Judge was added to kblamo_'s hand.
+Riolu was added to kblamo_'s hand.
+MarioCastano's Genesect ex is now in the Active Spot.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano played Dawn.
+- MarioCastano drew 2 cards.
+   • Latios, Hydreigon ex
+- MarioCastano shuffled their deck.
+MarioCastano played Deino to the Bench.
+MarioCastano's Steven's Metagross ex used X-Boot.
+- MarioCastano shuffled their deck.
+MarioCastano retreated Genesect ex to the Bench.
+- 2 cards were discarded from MarioCastano's Genesect ex.
+   • Basic Metal Energy, Basic Metal Energy
+MarioCastano's Steven's Metagross ex is now in the Active Spot.
+MarioCastano's Steven's Metagross ex used Metal Stomp on kblamo_’s Fezandipiti ex for 200 damage.
+
+kblamo_'s Turn
+kblamo_ drew Lillie's Determination.
+kblamo_ retreated Fezandipiti ex to the Bench.
+kblamo_'s Mega Lucario ex is now in the Active Spot.
+kblamo_ attached Basic Fighting Energy to Meowth ex on the Bench.
+kblamo_ played Poké Pad.
+- kblamo_ drew Makuhita.
+- kblamo_ shuffled their deck.
+kblamo_ played Team Rocket's Petrel.
+- kblamo_ drew Premium Power Pro.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano played Night Stretcher.
+- MarioCastano moved MarioCastano's Steven's Metang to their hand.
+MarioCastano evolved Steven's Beldum to Steven's Metang on the Bench.
+MarioCastano's Genesect ex used Metallic Signal.
+- MarioCastano shuffled their deck.
+MarioCastano's Steven's Metagross ex used X-Boot.
+- MarioCastano shuffled their deck.
+MarioCastano's Steven's Metagross ex used Metal Stomp on kblamo_’s Mega Lucario ex for 200 damage.
+
+kblamo_'s Turn
+kblamo_ drew Ultra Ball.
+kblamo_'s Mega Lucario ex used Aura Jab on MarioCastano’s Steven's Metagross ex for 130 damage.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano attached Prism Energy to Hydreigon ex on the Bench.
+MarioCastano evolved Steven's Metang to Steven's Metagross ex on the Bench.
+MarioCastano's Steven's Metagross ex used Metal Stomp on kblamo_’s Mega Lucario ex for 200 damage.
+kblamo_'s Mega Lucario ex was Knocked Out!
+- 2 cards were discarded from kblamo_'s Mega Lucario ex.
+   • Basic Fighting Energy, Riolu
+MarioCastano took 3 Prize cards.
+A card was added to MarioCastano's hand.
+A card was added to MarioCastano's hand.
+A card was added to MarioCastano's hand.
+kblamo_'s Hariyama is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew Ultra Ball.
+kblamo_ played Premium Power Pro.
+kblamo_'s Fezandipiti ex used Flip the Script.
+- kblamo_ drew 3 cards.
+   • Maximum Belt, Gravity Mountain, Basic Fighting Energy
+kblamo_ attached Basic Fighting Energy to Hariyama in the Active Spot.
+kblamo_ attached Maximum Belt to Hariyama in the Active Spot.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 8 cards into their deck.
+   • Riolu, Switch, Judge, Riolu, Makuhita, Ultra Ball, Ultra Ball, Gravity Mountain
+- kblamo_ drew 6 cards.
+   • Gravity Mountain, Night Stretcher, Premium Power Pro, Mega Lucario ex, Switch, Riolu
+kblamo_ played Night Stretcher.
+- kblamo_ moved kblamo_'s Basic Fighting Energy to their hand.
+kblamo_ played Switch.
+- kblamo_'s Fezandipiti ex was switched with kblamo_'s Hariyama to become the Active Pokémon.
+kblamo_'s Fezandipiti ex is now in the Active Spot.
+kblamo_ played Premium Power Pro.
+kblamo_'s Fezandipiti ex used Cruel Arrow on MarioCastano’s Steven's Metagross ex for 100 damage.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano attached Basic Metal Energy to Hydreigon ex on the Bench.
+MarioCastano's Steven's Metagross ex used X-Boot.
+- MarioCastano shuffled their deck.
+MarioCastano played Scramble Switch.
+- MarioCastano's Mew ex was switched with MarioCastano's Steven's Metagross ex to become the Active Pokémon.
+- MarioCastano attached Basic Psychic Energy to Mew ex in the Active Spot.
+- MarioCastano attached Basic Metal Energy to Mew ex in the Active Spot.
+- MarioCastano attached Basic Psychic Energy to Mew ex in the Active Spot.
+MarioCastano's Mew ex is now in the Active Spot.
+MarioCastano's Mew ex used Metal Stomp on kblamo_’s Fezandipiti ex for 200 damage.
+kblamo_'s Fezandipiti ex was Knocked Out!
+- 4 cards were discarded from kblamo_'s Fezandipiti ex.
+   • Basic Fighting Energy, Basic Fighting Energy, Basic Fighting Energy, Air Balloon
+MarioCastano took 2 Prize cards.
+A card was added to MarioCastano's hand.
+A card was added to MarioCastano's hand.
+kblamo_'s Hariyama is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew Judge.
+kblamo_ attached Basic Fighting Energy to Hariyama in the Active Spot.
+kblamo_ played Judge.
+- kblamo_ shuffled 3 cards into their deck.
+   • Gravity Mountain, Mega Lucario ex, Riolu
+- MarioCastano shuffled 7 cards into their deck.
+- kblamo_ drew 4 cards.
+   • Boss's Orders, Fighting Gong, Basic Fighting Energy, Mega Lucario ex
+- MarioCastano drew 4 cards.
+kblamo_ played Fighting Gong.
+- kblamo_ drew Basic Fighting Energy.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano played Ultra Ball.
+- MarioCastano discarded 2 cards.
+   • Steven's Metagross ex, Mew ex
+- MarioCastano drew Steven's Metang.
+- MarioCastano shuffled their deck.
+MarioCastano attached Prism Energy to Deino on the Bench.
+MarioCastano's Mew ex used Teleportation Burst on kblamo_’s Hariyama for 60 damage. kblamo_'s Hariyama took 30 more damage because of Psychic Weakness.
+- Damage breakdown:
+   • Base damage: 30 damage
+   • Weakness to Psychic: 30 damage
+   • Total damage: 60 damage
+
+- MarioCastano's Hydreigon ex was switched with MarioCastano's Mew ex to become the Active Pokémon.
+MarioCastano's Hydreigon ex is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew Fighting Gong.
+kblamo_ attached Basic Fighting Energy to Hariyama in the Active Spot.
+kblamo_ played Boss's Orders.
+- MarioCastano's Deino was switched with MarioCastano's Hydreigon ex to become the Active Pokémon.
+MarioCastano's Deino is now in the Active Spot.
+kblamo_'s Hariyama used Wild Press on MarioCastano’s Deino for 210 damage.
+- kblamo_'s Hariyama took 70 damage.
+MarioCastano's Deino was Knocked Out!
+Prism Energy was discarded from MarioCastano's Deino.
+kblamo_ took a Prize card.
+Premium Power Pro was added to kblamo_'s hand.
+MarioCastano's Hydreigon ex is now in the Active Spot.
+
+MarioCastano's Turn
+MarioCastano drew a card.
+MarioCastano's Hydreigon ex used Obsidian on kblamo_’s Hariyama for 130 damage.
+- kblamo_'s Lunatone took 130 damage.
+- kblamo_'s Lunatone took 130 damage.
+kblamo_'s Hariyama was Knocked Out!
+- 5 cards were discarded from kblamo_'s Hariyama.
+   • Basic Fighting Energy, Basic Fighting Energy, Basic Fighting Energy, Makuhita, Maximum Belt
+kblamo_'s Lunatone was Knocked Out!
+Basic Fighting Energy was discarded from kblamo_'s Lunatone.
+kblamo_'s Lunatone was Knocked Out!
+MarioCastano took a Prize card.
+A card was added to MarioCastano's hand.
+Opponent took all of their Prize cards. MarioCastano wins.
+
+

@@ -1,0 +1,223 @@
+Setup
+DudeJaden chose heads for the opening coin flip.
+DudeJaden won the coin toss.
+DudeJaden decided to go first.
+DudeJaden drew 7 cards for the opening hand.
+- 7 drawn cards.
+DrCompiler drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Fighting Energy, Makuhita, Basic Fighting Energy, Okidogi, Lillie's Determination, Mega Lucario ex, Boss's Orders
+DudeJaden played Makuhita to the Active Spot.
+DudeJaden played Solrock to the Bench.
+DrCompiler played Makuhita to the Active Spot.
+DrCompiler played Okidogi to the Bench.
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Fighting Gong.
+- DudeJaden drew Riolu.
+- DudeJaden shuffled their deck.
+DudeJaden played Riolu to the Bench.
+DudeJaden attached Rocky Fighting Energy to Riolu on the Bench.
+DudeJaden ended their turn.
+
+DrCompiler's Turn
+DrCompiler drew Makuhita.
+DrCompiler played Makuhita to the Bench.
+DrCompiler attached Basic Fighting Energy to Okidogi on the Bench.
+DrCompiler played Lillie's Determination.
+- DrCompiler shuffled 3 cards into their deck.
+   • Basic Fighting Energy, Mega Lucario ex, Boss's Orders
+- DrCompiler drew 8 cards.
+   • Basic Fighting Energy, Basic Fighting Energy, Lillie's Determination, Poké Pad, Fighting Gong, Lunatone, Mega Lucario ex, Lillie's Determination
+DrCompiler played Lunatone to the Bench.
+DrCompiler played Fighting Gong.
+- DrCompiler drew Riolu.
+- DrCompiler shuffled their deck.
+DrCompiler played Riolu to the Bench.
+DrCompiler played Poké Pad.
+- DrCompiler drew Hariyama.
+- DrCompiler shuffled their deck.
+DrCompiler ended their turn.
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Riolu to the Bench.
+DudeJaden played Meowth ex to the Bench.
+DudeJaden's Meowth ex used Last-Ditch Catch.
+- DudeJaden drew Lillie's Determination.
+- DudeJaden shuffled their deck.
+DudeJaden played Lillie's Determination.
+- DudeJaden shuffled 3 cards into their deck.
+- DudeJaden drew 8 cards.
+DudeJaden played Solrock to the Bench.
+DudeJaden evolved Riolu to Mega Lucario ex on the Bench.
+DudeJaden played Switch.
+- DudeJaden's Mega Lucario ex was switched with DudeJaden's Makuhita to become the Active Pokémon.
+DudeJaden's Mega Lucario ex is now in the Active Spot.
+DudeJaden attached Basic Fighting Energy to Mega Lucario ex in the Active Spot.
+DudeJaden's Mega Lucario ex used Aura Jab on DrCompiler’s Makuhita for 130 damage.
+DrCompiler's Makuhita was Knocked Out!
+DudeJaden took a Prize card.
+A card was added to DudeJaden's hand.
+DrCompiler's Riolu is now in the Active Spot.
+
+DrCompiler's Turn
+DrCompiler drew Night Stretcher.
+DrCompiler attached Basic Fighting Energy to Riolu in the Active Spot.
+DrCompiler evolved Riolu to Mega Lucario ex in the Active Spot.
+DrCompiler played Lillie's Determination.
+- DrCompiler shuffled 4 cards into their deck.
+   • Basic Fighting Energy, Lillie's Determination, Hariyama, Night Stretcher
+- DrCompiler drew 8 cards.
+   • Mega Lucario ex, Premium Power Pro, Boss's Orders, Solrock, Boss's Orders, Lillie's Determination, Basic Fighting Energy, Fezandipiti ex
+DrCompiler played Fezandipiti ex to the Bench.
+DrCompiler played Solrock to the Bench.
+DrCompiler played Premium Power Pro.
+DrCompiler's Mega Lucario ex used Aura Jab on DudeJaden’s Mega Lucario ex for 160 damage.
+- Damage breakdown:
+   • Base damage: 130 damage
+   • (Item) Premium Power Pro: 30 damage
+   • Total damage: 160 damage
+
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Lillie's Determination.
+- DudeJaden shuffled 5 cards into their deck.
+- DudeJaden drew 6 cards.
+DudeJaden evolved Riolu to Mega Lucario ex on the Bench.
+DudeJaden attached Basic Fighting Energy to Mega Lucario ex on the Bench.
+DudeJaden played Prime Catcher.
+- DrCompiler's Lunatone was switched with DrCompiler's Mega Lucario ex to become the Active Pokémon.
+- DudeJaden's Mega Lucario ex was switched with DudeJaden's Mega Lucario ex to become the Active Pokémon.
+DrCompiler's Lunatone is now in the Active Spot.
+DudeJaden's Mega Lucario ex is now in the Active Spot.
+DudeJaden's Mega Lucario ex used Aura Jab on DrCompiler’s Lunatone for 130 damage.
+DrCompiler's Lunatone was Knocked Out!
+DudeJaden took a Prize card.
+A card was added to DudeJaden's hand.
+DrCompiler's Mega Lucario ex is now in the Active Spot.
+
+DrCompiler's Turn
+DrCompiler drew Basic Fighting Energy.
+DrCompiler attached Basic Fighting Energy to Mega Lucario ex in the Active Spot.
+DrCompiler played Boss's Orders.
+- DudeJaden's Mega Lucario ex was switched with DudeJaden's Mega Lucario ex to become the Active Pokémon.
+DudeJaden's Mega Lucario ex is now in the Active Spot.
+DrCompiler's Fezandipiti ex used Flip the Script.
+- DrCompiler drew 3 cards.
+   • Hariyama, Ultra Ball, Basic Fighting Energy
+DrCompiler evolved Makuhita to Hariyama on the Bench.
+DrCompiler played Ultra Ball.
+- DrCompiler discarded 2 cards.
+   • Mega Lucario ex, Basic Fighting Energy
+- DrCompiler drew Meowth ex.
+- DrCompiler shuffled their deck.
+DrCompiler's Mega Lucario ex used Mega Brave on DudeJaden’s Mega Lucario ex for 270 damage.
+DudeJaden's Mega Lucario ex was Knocked Out!
+- 3 cards were discarded from DudeJaden's Mega Lucario ex.
+   • Rocky Fighting Energy, Basic Fighting Energy, Riolu
+DrCompiler took 3 Prize cards.
+Ultra Ball was added to DrCompiler's hand.
+Premium Power Pro was added to DrCompiler's hand.
+Lunatone was added to DrCompiler's hand.
+DudeJaden's Mega Lucario ex is now in the Active Spot.
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Ultra Ball.
+- DudeJaden discarded 2 cards.
+   • Fighting Gong, Judge
+- DudeJaden drew Lunatone.
+- DudeJaden shuffled their deck.
+DudeJaden played Lunatone to the Bench.
+DudeJaden's Lunatone used Lunar Cycle.
+- DudeJaden discarded Basic Fighting Energy.
+- DudeJaden drew 3 cards.
+DudeJaden attached Basic Fighting Energy to Mega Lucario ex in the Active Spot.
+DudeJaden played Judge.
+- DudeJaden shuffled 2 cards into their deck.
+- DrCompiler shuffled 7 cards into their deck.
+   • Boss's Orders, Lillie's Determination, Basic Fighting Energy, Meowth ex, Ultra Ball, Premium Power Pro, Lunatone
+- DudeJaden drew 4 cards.
+- DrCompiler drew 4 cards.
+   • Basic Fighting Energy, Basic Fighting Energy, Basic Fighting Energy, Tarragon
+DudeJaden's Mega Lucario ex used Aura Jab on DrCompiler’s Mega Lucario ex for 130 damage.
+- DudeJaden attached Basic Fighting Energy to Makuhita on the Bench.
+- DudeJaden attached Basic Fighting Energy to Makuhita on the Bench.
+
+DrCompiler's Turn
+DrCompiler drew Judge.
+DrCompiler attached Basic Fighting Energy to Okidogi on the Bench.
+DrCompiler played Judge.
+- DrCompiler shuffled 3 cards into their deck.
+   • Basic Fighting Energy, Basic Fighting Energy, Tarragon
+- DudeJaden shuffled 4 cards into their deck.
+- DrCompiler drew 4 cards.
+   • Night Stretcher, Basic Fighting Energy, Meowth ex, Premium Power Pro
+- DudeJaden drew 4 cards.
+DrCompiler played Night Stretcher.
+- DrCompiler moved DrCompiler's Lunatone to their hand.
+DrCompiler played Premium Power Pro.
+DrCompiler's Mega Lucario ex used Aura Jab on DudeJaden’s Mega Lucario ex for 160 damage.
+- Damage breakdown:
+   • Base damage: 130 damage
+   • (Item) Premium Power Pro: 30 damage
+   • Total damage: 160 damage
+
+- DrCompiler attached Basic Fighting Energy to Okidogi on the Bench.
+
+DudeJaden's Turn
+DudeJaden drew a card.
+DudeJaden played Fighting Gong.
+- DudeJaden drew Basic Fighting Energy.
+- DudeJaden shuffled their deck.
+DudeJaden's Lunatone used Lunar Cycle.
+- DudeJaden discarded Basic Fighting Energy.
+- DudeJaden drew 3 cards.
+DudeJaden evolved Makuhita to Hariyama on the Bench.
+DudeJaden's Hariyama used Heave-Ho Catcher.
+- DrCompiler's Okidogi was switched with DrCompiler's Mega Lucario ex to become the Active Pokémon.
+DrCompiler's Okidogi is now in the Active Spot.
+DudeJaden attached Basic Fighting Energy to Hariyama on the Bench.
+DudeJaden retreated Mega Lucario ex to the Bench.
+- 2 cards were discarded from DudeJaden's Mega Lucario ex.
+   • Basic Fighting Energy, Basic Fighting Energy
+DudeJaden's Hariyama is now in the Active Spot.
+DudeJaden played Premium Power Pro.
+DudeJaden's Hariyama used Wild Press on DrCompiler’s Okidogi for 240 damage.
+- Damage breakdown:
+   • Base damage: 210 damage
+   • (Item) Premium Power Pro: 30 damage
+   • Total damage: 240 damage
+
+- DudeJaden's Hariyama took 70 damage.
+DrCompiler's Okidogi was Knocked Out!
+- 3 cards were discarded from DrCompiler's Okidogi.
+   • Basic Fighting Energy, Basic Fighting Energy, Basic Fighting Energy
+DudeJaden took a Prize card.
+A card was added to DudeJaden's hand.
+DrCompiler's Mega Lucario ex is now in the Active Spot.
+
+DrCompiler's Turn
+DrCompiler drew Team Rocket's Petrel.
+DrCompiler's Fezandipiti ex used Flip the Script.
+- DrCompiler drew 3 cards.
+   • Gravity Mountain, Switch, Tarragon
+DrCompiler played Meowth ex to the Bench.
+DrCompiler's Meowth ex used Last-Ditch Catch.
+- DrCompiler drew Boss's Orders.
+- DrCompiler shuffled their deck.
+DrCompiler played Boss's Orders.
+- DudeJaden's Mega Lucario ex was switched with DudeJaden's Hariyama to become the Active Pokémon.
+DudeJaden's Mega Lucario ex is now in the Active Spot.
+DrCompiler attached Basic Fighting Energy to Solrock on the Bench.
+DrCompiler's Mega Lucario ex used Mega Brave on DudeJaden’s Mega Lucario ex for 270 damage.
+DudeJaden's Mega Lucario ex was Knocked Out!
+Riolu was discarded from DudeJaden's Mega Lucario ex.
+DrCompiler took 3 Prize cards.
+Basic Fighting Energy was added to DrCompiler's hand.
+Switch was added to DrCompiler's hand.
+Air Balloon was added to DrCompiler's hand.
+All Prize cards taken. DrCompiler wins.

@@ -1,0 +1,198 @@
+Setup
+kblamo_ chose tails for the opening coin flip.
+kblamo_ won the coin toss.
+kblamo_ decided to go second.
+kblamo_ drew 7 cards for the opening hand.
+- 7 drawn cards.
+HGDZB drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Bug Catching Set, Chikorita, Bug Catching Set, Teal Mask Ogerpon ex, Meganium, Lillie's Determination, Ivysaur
+kblamo_ took a mulligan.
+- Cards revealed from Mulligan 1
+   • Ultra Ball, Night Stretcher, Hariyama, Lillie's Determination, Poké Pad, Basic Fighting Energy, Gravity Mountain
+HGDZB drew 1 more card because kblamo_ took at least 1 mulligan.
+- HGDZB drew Lillie's Determination.
+kblamo_ played Riolu to the Active Spot.
+HGDZB played Teal Mask Ogerpon ex to the Active Spot.
+HGDZB played Chikorita to the Bench.
+
+HGDZB's Turn
+HGDZB drew Forest of Vitality.
+HGDZB played Forest of Vitality to the Stadium spot.
+HGDZB played Bug Catching Set.
+- HGDZB drew 2 cards.
+   • Mega Venusaur ex, Basic Grass Energy
+- HGDZB shuffled their deck.
+HGDZB attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+HGDZB played Bug Catching Set.
+- HGDZB drew 2 cards.
+   • Bulbasaur, Chikorita
+- HGDZB shuffled their deck.
+HGDZB played Bulbasaur to the Bench.
+HGDZB played Chikorita to the Bench.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Boss's Orders.
+- HGDZB's Chikorita was switched with HGDZB's Teal Mask Ogerpon ex to become the Active Pokémon.
+HGDZB's Chikorita is now in the Active Spot.
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Salvatore, Hariyama
+- kblamo_ drew Fezandipiti ex.
+- kblamo_ shuffled their deck.
+kblamo_ played Fezandipiti ex to the Bench.
+kblamo_ played Premium Power Pro.
+kblamo_ played Gravity Mountain to the Stadium spot.
+- HGDZB discarded Forest of Vitality.
+kblamo_ played Poké Pad.
+- kblamo_ drew Lunatone.
+- kblamo_ shuffled their deck.
+kblamo_ played Lunatone to the Bench.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Basic Grass Energy.
+HGDZB evolved Bulbasaur to Ivysaur on the Bench.
+HGDZB attached Basic Grass Energy to Chikorita in the Active Spot.
+HGDZB retreated Chikorita to the Bench.
+- Basic Grass Energy was discarded from HGDZB's Chikorita.
+HGDZB's Ivysaur is now in the Active Spot.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Teal Mask Ogerpon ex.
+HGDZB evolved Ivysaur to Mega Venusaur ex in the Active Spot.
+HGDZB played Teal Mask Ogerpon ex to the Bench.
+HGDZB's Mega Venusaur ex used Solar Transfer.
+- HGDZB attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+HGDZB played Lillie's Determination.
+- HGDZB shuffled 2 cards into their deck.
+   • Meganium, Lillie's Determination
+- HGDZB drew 8 cards.
+   • Ultra Ball, Poké Pad, Bug Catching Set, Lillie's Determination, Ivysaur, Basic Grass Energy, Wally's Compassion, Team Rocket's Petrel
+HGDZB attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+HGDZB played Bug Catching Set.
+- HGDZB drew 2 cards.
+   • Basic Grass Energy, Basic Grass Energy
+- HGDZB shuffled their deck.
+HGDZB's Teal Mask Ogerpon ex used Teal Dance.
+- HGDZB attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- HGDZB drew Mega Venusaur ex.
+HGDZB's Teal Mask Ogerpon ex used Teal Dance.
+- HGDZB attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- HGDZB drew Forest of Vitality.
+HGDZB's Mega Venusaur ex used Solar Transfer.
+- HGDZB attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+- HGDZB attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+HGDZB played Ultra Ball.
+- HGDZB discarded 2 cards.
+   • Lillie's Determination, Ivysaur
+- HGDZB drew Teal Mask Ogerpon ex.
+- HGDZB shuffled their deck.
+HGDZB played Poké Pad.
+- HGDZB drew Meganium.
+- HGDZB shuffled their deck.
+HGDZB played Forest of Vitality to the Stadium spot.
+- kblamo_ discarded Gravity Mountain.
+HGDZB played Teal Mask Ogerpon ex to the Bench.
+HGDZB's Mega Venusaur ex used Jungle Dump on kblamo_’s Riolu for 240 damage.
+kblamo_'s Riolu was Knocked Out!
+HGDZB took a Prize card.
+Lana's Aid was added to HGDZB's hand.
+kblamo_'s Fezandipiti ex is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Judge.
+- kblamo_ shuffled a card into their deck.
+- HGDZB shuffled 5 cards into their deck.
+   • Wally's Compassion, Team Rocket's Petrel, Mega Venusaur ex, Meganium, Lana's Aid
+- kblamo_ drew 4 cards.
+- HGDZB drew 4 cards.
+   • Forest of Vitality, Bug Catching Set, Colress's Tenacity, Lana's Aid
+kblamo_ played Meowth ex to the Bench.
+kblamo_'s Meowth ex used Last-Ditch Catch.
+- kblamo_ drew Judge.
+- kblamo_ shuffled their deck.
+kblamo_ played Solrock to the Bench.
+kblamo_ played Solrock to the Bench.
+kblamo_'s Fezandipiti ex used Flip the Script.
+- kblamo_ drew 3 cards.
+kblamo_'s Lunatone used Lunar Cycle.
+- kblamo_ discarded Basic Fighting Energy.
+- kblamo_ drew 3 cards.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Judge.
+HGDZB played Colress's Tenacity.
+- HGDZB drew 2 cards.
+   • Grand Tree, Basic Grass Energy
+- HGDZB shuffled their deck.
+HGDZB played Grand Tree to the Stadium spot.
+- HGDZB discarded Forest of Vitality.
+HGDZB attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+HGDZB played Bug Catching Set.
+- HGDZB drew 2 cards.
+   • Basic Grass Energy, Bayleef
+- HGDZB shuffled their deck.
+HGDZB played Grand Tree.
+- HGDZB shuffled their deck.
+HGDZB's Mega Venusaur ex used Jungle Dump on kblamo_’s Fezandipiti ex for 240 damage.
+kblamo_'s Fezandipiti ex was Knocked Out!
+HGDZB took 2 Prize cards.
+Bulbasaur was added to HGDZB's hand.
+Ultra Ball was added to HGDZB's hand.
+kblamo_'s Meowth ex is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Fighting Energy to Meowth ex in the Active Spot.
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Judge, Tarragon
+- kblamo_ drew Mega Lucario ex.
+- kblamo_ shuffled their deck.
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Hariyama, Mega Lucario ex
+- kblamo_ drew Makuhita.
+- kblamo_ shuffled their deck.
+kblamo_ played Makuhita to the Bench.
+kblamo_ retreated Meowth ex to the Bench.
+- Basic Fighting Energy was discarded from kblamo_'s Meowth ex.
+kblamo_'s Makuhita is now in the Active Spot.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Teal Mask Ogerpon ex.
+HGDZB's Mega Venusaur ex used Jungle Dump on kblamo_’s Makuhita for 240 damage.
+kblamo_'s Makuhita was Knocked Out!
+HGDZB took a Prize card.
+Basic Grass Energy was added to HGDZB's hand.
+kblamo_'s Lunatone is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Gravity Mountain to the Stadium spot.
+- HGDZB discarded Grand Tree.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Boss's Orders.
+HGDZB played Boss's Orders.
+- kblamo_'s Meowth ex was switched with kblamo_'s Lunatone to become the Active Pokémon.
+kblamo_'s Meowth ex is now in the Active Spot.
+HGDZB's Mega Venusaur ex used Jungle Dump on kblamo_’s Meowth ex for 240 damage.
+kblamo_'s Meowth ex was Knocked Out!
+HGDZB took 2 Prize cards.
+Basic Grass Energy was added to HGDZB's hand.
+Bayleef was added to HGDZB's hand.
+All Prize cards taken. HGDZB wins.
+

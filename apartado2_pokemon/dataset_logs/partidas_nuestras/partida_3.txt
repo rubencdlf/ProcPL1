@@ -1,0 +1,376 @@
+Setup
+HGDZB chose tails for the opening coin flip.
+kblamo_ won the coin toss.
+kblamo_ decided to go second.
+HGDZB drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Energy Recycler, N's Zoroark ex, N's Zoroark ex, N's Zoroark ex, N's Castle, Cyrano, N's Zorua
+kblamo_ drew 7 cards for the opening hand.
+- 7 drawn cards.
+HGDZB played N's Zorua to the Active Spot.
+kblamo_ played Chikorita to the Active Spot.
+
+HGDZB's Turn
+HGDZB drew N's Darumaka.
+HGDZB played N's Darumaka to the Bench.
+HGDZB played N's Castle to the Stadium spot.
+HGDZB retreated N's Zorua to the Bench.
+HGDZB's N's Darumaka is now in the Active Spot.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 6 cards into their deck.
+- kblamo_ drew 8 cards.
+kblamo_ attached Basic Grass Energy to Chikorita in the Active Spot.
+kblamo_'s Chikorita used Razor Leaf on HGDZB’s N's Darumaka for 20 damage.
+
+HGDZB's Turn
+HGDZB drew Binding Mochi.
+HGDZB evolved N's Zorua to N's Zoroark ex on the Bench.
+HGDZB retreated N's Darumaka to the Bench.
+HGDZB's N's Zoroark ex is now in the Active Spot.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Cyrano.
+- HGDZB drew 2 cards.
+   • Redeemable Ticket, Team Rocket's Petrel
+HGDZB played Team Rocket's Petrel.
+- HGDZB drew Hero's Cape.
+- HGDZB shuffled their deck.
+HGDZB attached Hero's Cape to N's Zoroark ex in the Active Spot.
+HGDZB attached Binding Mochi to N's Darumaka on the Bench.
+HGDZB played Redeemable Ticket.
+- HGDZB shuffled their Prize cards.
+- HGDZB put 6 cards on the bottom of their deck.
+- HGDZB moved HGDZB's 6 cards to the Prize cards.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Teal Mask Ogerpon ex to the Bench.
+kblamo_ played Bulbasaur to the Bench.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 5 cards into their deck.
+- kblamo_ drew 8 cards.
+kblamo_'s Teal Mask Ogerpon ex used Teal Dance.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- kblamo_ drew a card.
+kblamo_ played Teal Mask Ogerpon ex to the Bench.
+kblamo_ retreated Chikorita to the Bench.
+- Basic Grass Energy was discarded from kblamo_'s Chikorita.
+kblamo_'s Teal Mask Ogerpon ex is now in the Active Spot.
+kblamo_ played Teal Mask Ogerpon ex to the Bench.
+kblamo_ played Bug Catching Set.
+- kblamo_ drew 2 cards.
+   • Meganium, Ivysaur
+- kblamo_ shuffled their deck.
+kblamo_ played Forest of Vitality to the Stadium spot.
+- HGDZB discarded N's Castle.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Basic Darkness Energy.
+HGDZB attached Basic Darkness Energy to N's Zoroark ex in the Active Spot.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Energy Recycler.
+- HGDZB drew 2 cards.
+   • N's PP Up, Buddy-Buddy Poffin
+HGDZB played Buddy-Buddy Poffin.
+- HGDZB drew 2 cards and played them to the Bench.
+   • N's Zorua, N's Zorua
+- HGDZB shuffled their deck.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Meowth ex to the Bench.
+kblamo_'s Meowth ex used Last-Ditch Catch.
+- kblamo_ drew Team Rocket's Petrel.
+- kblamo_ shuffled their deck.
+kblamo_ played Team Rocket's Petrel.
+- kblamo_ drew Boss's Orders.
+- kblamo_ shuffled their deck.
+kblamo_ evolved Bulbasaur to Ivysaur on the Bench.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Judge.
+HGDZB evolved N's Zorua to N's Zoroark ex on the Bench.
+HGDZB evolved N's Zorua to N's Zoroark ex on the Bench.
+HGDZB played Judge.
+- HGDZB shuffled N's PP Up into their deck.
+- kblamo_ shuffled 6 cards into their deck.
+- HGDZB drew 4 cards.
+   • Pecharunt ex, N's PP Up, N's Castle, Lillie's Determination
+- kblamo_ drew 4 cards.
+HGDZB played Pecharunt ex to the Bench.
+HGDZB's Pecharunt ex used Subjugating Chains.
+- HGDZB's N's Zoroark ex was switched with HGDZB's N's Zoroark ex to become the Active Pokémon.
+- HGDZB's N's Zoroark ex is now Poisoned.
+HGDZB's N's Zoroark ex is now in the Active Spot.
+HGDZB played N's Castle to the Stadium spot.
+- kblamo_ discarded Forest of Vitality.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded N's PP Up.
+- HGDZB drew 2 cards.
+   • Buddy-Buddy Poffin, Buddy-Buddy Poffin
+HGDZB played Buddy-Buddy Poffin.
+- HGDZB drew N's Zorua and played it to the Bench.
+- HGDZB shuffled their deck.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Buddy-Buddy Poffin.
+- HGDZB drew 2 cards.
+   • Judge, Boss's Orders
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Lillie's Determination.
+- HGDZB drew 2 cards.
+   • Fezandipiti ex, N's Darmanitan
+HGDZB retreated N's Zoroark ex to the Bench.
+HGDZB's N's Zoroark ex is now in the Active Spot.
+HGDZB evolved N's Darumaka to N's Darmanitan on the Bench.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+kblamo_ played Grand Tree to the Stadium spot.
+- HGDZB discarded N's Castle.
+kblamo_ evolved Ivysaur to Mega Venusaur ex on the Bench.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex on the Bench.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex on the Bench.
+kblamo_ played Grand Tree.
+- kblamo_ evolved Chikorita to Bayleef on the Bench.
+- kblamo_ evolved Bayleef to Meganium on the Bench.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew N's Reshiram.
+HGDZB played Grand Tree.
+- HGDZB evolved N's Zorua to N's Zoroark ex on the Bench.
+- HGDZB shuffled their deck.
+HGDZB played Judge.
+- HGDZB shuffled 3 cards into their deck.
+   • Boss's Orders, Fezandipiti ex, N's Reshiram
+- kblamo_ shuffled 2 cards into their deck.
+- HGDZB drew 4 cards.
+   • Basic Darkness Energy, Basic Darkness Energy, Poké Pad, Lillie's Determination
+- kblamo_ drew 4 cards.
+HGDZB attached Basic Darkness Energy to N's Zoroark ex in the Active Spot.
+HGDZB played Poké Pad.
+- HGDZB drew N's Reshiram.
+- HGDZB shuffled their deck.
+HGDZB's N's Zoroark ex used Night Joker on kblamo_’s Teal Mask Ogerpon ex for 90 damage.
+- HGDZB chose Night Joker
+- HGDZB chose Flamebody Cannon
+- kblamo_'s Meganium took 90 damage.
+- 2 cards were discarded from HGDZB's N's Zoroark ex.
+   • Basic Darkness Energy, Basic Darkness Energy
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_'s Teal Mask Ogerpon ex used Teal Dance.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+- kblamo_ drew a card.
+kblamo_ played Boss's Orders.
+- HGDZB's N's Darmanitan was switched with HGDZB's N's Zoroark ex to become the Active Pokémon.
+HGDZB's N's Darmanitan is now in the Active Spot.
+kblamo_ retreated Teal Mask Ogerpon ex to the Bench.
+- Basic Grass Energy was discarded from kblamo_'s Teal Mask Ogerpon ex.
+kblamo_'s Mega Venusaur ex is now in the Active Spot.
+kblamo_'s Mega Venusaur ex used Jungle Dump on HGDZB’s N's Darmanitan for 240 damage.
+HGDZB's N's Darmanitan was Knocked Out!
+- 2 cards were discarded from HGDZB's N's Darmanitan.
+   • N's Darumaka, Binding Mochi
+kblamo_ took a Prize card.
+A card was added to kblamo_'s hand.
+HGDZB's N's Zoroark ex is now in the Active Spot.
+
+HGDZB's Turn
+HGDZB drew Meowth ex.
+HGDZB played Meowth ex to the Bench.
+HGDZB's Meowth ex used Last-Ditch Catch.
+- HGDZB drew Boss's Orders.
+- HGDZB shuffled their deck.
+HGDZB attached Basic Darkness Energy to N's Zoroark ex in the Active Spot.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded N's Reshiram.
+- HGDZB drew 2 cards.
+   • N's PP Up, Fezandipiti ex
+HGDZB played N's PP Up.
+- HGDZB attached Basic Darkness Energy to N's Zoroark ex on the Bench.
+HGDZB played Boss's Orders.
+- kblamo_'s Meganium was switched with kblamo_'s Mega Venusaur ex to become the Active Pokémon.
+kblamo_'s Meganium is now in the Active Spot.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Fezandipiti ex.
+- HGDZB drew 2 cards.
+   • Basic Darkness Energy, Ultra Ball
+HGDZB played Ultra Ball.
+- HGDZB discarded 2 cards.
+   • Lillie's Determination, Basic Darkness Energy
+- HGDZB drew N's Darumaka.
+- HGDZB shuffled their deck.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded N's Darumaka.
+- HGDZB drew 2 cards.
+   • Basic Darkness Energy, N's PP Up
+HGDZB played N's PP Up.
+- HGDZB attached Basic Darkness Energy to N's Zoroark ex on the Bench.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Boss's Orders.
+- HGDZB's Meowth ex was switched with HGDZB's N's Zoroark ex to become the Active Pokémon.
+HGDZB's Meowth ex is now in the Active Spot.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Meganium in the Active Spot.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Meganium in the Active Spot.
+kblamo_'s Meganium used Solar Beam on HGDZB’s Meowth ex for 140 damage.
+
+HGDZB's Turn
+HGDZB drew Cyrano.
+HGDZB played Cyrano.
+- HGDZB shuffled their deck.
+HGDZB attached Basic Darkness Energy to N's Zoroark ex on the Bench.
+HGDZB's Pecharunt ex used Subjugating Chains.
+- HGDZB's N's Zoroark ex was switched with HGDZB's Meowth ex to become the Active Pokémon.
+- HGDZB's N's Zoroark ex is now Poisoned.
+HGDZB's N's Zoroark ex is now in the Active Spot.
+HGDZB's N's Zoroark ex used Night Joker.
+- HGDZB chose Night Joker
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 5 cards into their deck.
+- kblamo_ drew 6 cards.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex on the Bench.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex on the Bench.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Meganium in the Active Spot.
+kblamo_ retreated Meganium to the Bench.
+- Basic Grass Energy was discarded from kblamo_'s Meganium.
+kblamo_'s Mega Venusaur ex is now in the Active Spot.
+kblamo_ played Poké Pad.
+- kblamo_ drew Bulbasaur.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+HGDZB's Turn
+HGDZB drew Night Stretcher.
+HGDZB's N's Zoroark ex used Night Joker.
+- HGDZB chose Night Joker
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Judge.
+- kblamo_ shuffled 6 cards into their deck.
+- HGDZB shuffled Night Stretcher into their deck.
+- kblamo_ drew 4 cards.
+- HGDZB drew 4 cards.
+   • Lillie's Determination, N's PP Up, Poké Pad, Air Balloon
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Bulbasaur, Bayleef
+- kblamo_ drew Mega Venusaur ex.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+HGDZB's Turn
+HGDZB drew Boss's Orders.
+HGDZB played Boss's Orders.
+- kblamo_'s Meganium was switched with kblamo_'s Mega Venusaur ex to become the Active Pokémon.
+kblamo_'s Meganium is now in the Active Spot.
+HGDZB played N's PP Up.
+- HGDZB attached Basic Darkness Energy to N's Zoroark ex on the Bench.
+HGDZB attached Air Balloon to N's Zoroark ex on the Bench.
+HGDZB played Poké Pad.
+- HGDZB shuffled their deck.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Lillie's Determination.
+- HGDZB drew 2 cards.
+   • Ultra Ball, Powerglass
+HGDZB attached Powerglass to N's Zoroark ex on the Bench.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Ultra Ball.
+- HGDZB drew 2 cards.
+   • Basic Darkness Energy, Basic Darkness Energy
+HGDZB attached Basic Darkness Energy to N's Zoroark ex in the Active Spot.
+HGDZB's N's Zoroark ex used Trade.
+- HGDZB discarded Basic Darkness Energy.
+- HGDZB drew 2 cards.
+   • Basic Darkness Energy, Night Stretcher
+HGDZB played Night Stretcher.
+- HGDZB moved HGDZB's Fezandipiti ex to their hand.
+HGDZB's N's Zoroark ex used Night Joker.
+- HGDZB chose Night Joker
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Bug Catching Set.
+- kblamo_ drew 2 cards.
+   • Basic Grass Energy, Mega Venusaur ex
+- kblamo_ shuffled their deck.
+kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Meganium in the Active Spot.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+kblamo_ retreated Meganium to the Bench.
+- Basic Grass Energy was discarded from kblamo_'s Meganium.
+kblamo_'s Teal Mask Ogerpon ex is now in the Active Spot.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+kblamo_ ended their turn.
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+HGDZB's Turn
+HGDZB drew Lillie's Determination.
+HGDZB played Lillie's Determination.
+- HGDZB shuffled 2 cards into their deck.
+   • Basic Darkness Energy, Fezandipiti ex
+- HGDZB drew 2 cards.
+   • Fezandipiti ex, Basic Darkness Energy
+HGDZB attached Basic Darkness Energy to Pecharunt ex on the Bench.
+HGDZB's Pecharunt ex used Subjugating Chains.
+- HGDZB's N's Zoroark ex was switched with HGDZB's N's Zoroark ex to become the Active Pokémon.
+- HGDZB's N's Zoroark ex is now Poisoned.
+HGDZB's N's Zoroark ex is now in the Active Spot.
+HGDZB's N's Zoroark ex used Night Joker.
+- HGDZB chose Night Joker
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ ended their turn.
+
+Pokémon Checkup
+1 damage counter was placed on HGDZB's N's Zoroark ex for the Special Condition Poisoned.
+
+HGDZB's Turn
+Your deck ran out of cards. kblamo_ wins.
+

@@ -1,0 +1,412 @@
+Setup
+HGDZB chose tails for the opening coin flip.
+kblamo_ won the coin toss.
+kblamo_ decided to go first.
+HGDZB drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Steven's Beldum, Energy Recycler, Jellicent ex, Boss's Orders, Boss's Orders, Basic Psychic Energy, Ultra Ball
+kblamo_ drew 7 cards for the opening hand.
+- 7 drawn cards.
+HGDZB played Steven's Beldum to the Active Spot.
+kblamo_ played Chikorita to the Active Spot.
+kblamo_ played Meowth ex to the Bench.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Chikorita in the Active Spot.
+kblamo_ played Bug Catching Set.
+- kblamo_ drew 2 cards.
+   • Ivysaur, Meganium
+- kblamo_ shuffled their deck.
+kblamo_ played Forest of Vitality to the Stadium spot.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Frillish.
+HGDZB played Ultra Ball.
+- HGDZB discarded 2 cards.
+   • Energy Recycler, Basic Psychic Energy
+- HGDZB drew Steven's Metagross ex.
+- HGDZB shuffled their deck.
+HGDZB played Frillish to the Bench.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 5 cards into their deck.
+- kblamo_ drew 8 cards.
+kblamo_ played Bug Catching Set.
+- kblamo_ drew 2 cards.
+   • Bulbasaur, Basic Grass Energy
+- kblamo_ shuffled their deck.
+kblamo_ attached Basic Grass Energy to Chikorita in the Active Spot.
+kblamo_'s Chikorita used Razor Leaf on HGDZB’s Steven's Beldum for 0 damage. HGDZB's Steven's Beldum took -20 less damage because of Grass Resistance.
+- Damage breakdown:
+   • Base damage: 20 damage
+   • Resistance to Grass: -20 damage
+   • Total damage: 0 damage
+
+
+HGDZB's Turn
+HGDZB drew Basic Psychic Energy.
+HGDZB attached Basic Psychic Energy to Steven's Beldum in the Active Spot.
+HGDZB evolved Frillish to Jellicent ex on the Bench.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Chikorita in the Active Spot.
+kblamo_ played Bulbasaur to the Bench.
+kblamo_ played Judge.
+- kblamo_ shuffled 6 cards into their deck.
+- HGDZB shuffled 3 cards into their deck.
+   • Boss's Orders, Boss's Orders, Steven's Metagross ex
+- kblamo_ drew 4 cards.
+- HGDZB drew 4 cards.
+   • Lillie's Determination, Night Stretcher, Lillie's Determination, Lillie's Determination
+kblamo_ played Grand Tree to the Stadium spot.
+- kblamo_ discarded Forest of Vitality.
+kblamo_ played Chikorita to the Bench.
+kblamo_ retreated Chikorita to the Bench.
+- Basic Grass Energy was discarded from kblamo_'s Chikorita.
+kblamo_'s Bulbasaur is now in the Active Spot.
+kblamo_ played Night Stretcher.
+- kblamo_ moved kblamo_'s Basic Grass Energy to their hand.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Steven's Metang.
+HGDZB played Lillie's Determination.
+- HGDZB shuffled 4 cards into their deck.
+   • Lillie's Determination, Night Stretcher, Lillie's Determination, Steven's Metang
+- HGDZB drew 8 cards.
+   • Basic Metal Energy, Ultra Ball, Lillie's Determination, Poké Pad, Basic Psychic Energy, Basic Metal Energy, Night Stretcher, Basic Psychic Energy
+HGDZB attached Basic Psychic Energy to Jellicent ex on the Bench.
+HGDZB played Ultra Ball.
+- HGDZB discarded 2 cards.
+   • Night Stretcher, Lillie's Determination
+- HGDZB drew Mega Mawile ex.
+- HGDZB shuffled their deck.
+HGDZB retreated Steven's Beldum to the Bench.
+- Basic Psychic Energy was discarded from HGDZB's Steven's Beldum.
+HGDZB's Jellicent ex is now in the Active Spot.
+HGDZB played Mega Mawile ex to the Bench.
+HGDZB played Poké Pad.
+- HGDZB drew Steven's Metang.
+- HGDZB shuffled their deck.
+HGDZB evolved Steven's Beldum to Steven's Metang on the Bench.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Teal Mask Ogerpon ex to the Bench.
+kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+kblamo_ played Grand Tree.
+- kblamo_ evolved Bulbasaur to Ivysaur in the Active Spot.
+- kblamo_ evolved Ivysaur to Mega Venusaur ex in the Active Spot.
+- kblamo_ shuffled their deck.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Team Rocket's Petrel.
+HGDZB attached Basic Psychic Energy to Jellicent ex in the Active Spot.
+HGDZB played Team Rocket's Petrel.
+- HGDZB drew Judge.
+- HGDZB shuffled their deck.
+HGDZB's Jellicent ex used Power Press on kblamo_’s Mega Venusaur ex for 80 damage.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+kblamo_'s Mega Venusaur ex used Jungle Dump on HGDZB’s Jellicent ex for 240 damage.
+- kblamo_'s Mega Venusaur ex healed 30 damage.
+
+HGDZB's Turn
+HGDZB drew Basic Psychic Energy.
+HGDZB attached Basic Metal Energy to Jellicent ex in the Active Spot.
+HGDZB played Judge.
+- HGDZB shuffled 2 cards into their deck.
+   • Basic Metal Energy, Basic Psychic Energy
+- kblamo_ shuffled a card into their deck.
+- HGDZB drew 4 cards.
+   • Buddy-Buddy Poffin, Lillie's Determination, Basic Metal Energy, Genesect ex
+- kblamo_ drew 4 cards.
+HGDZB played Genesect ex to the Bench.
+HGDZB's Jellicent ex used Power Press on kblamo_’s Mega Venusaur ex for 80 damage.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Boss's Orders.
+- HGDZB's Steven's Metang was switched with HGDZB's Jellicent ex to become the Active Pokémon.
+HGDZB's Steven's Metang is now in the Active Spot.
+kblamo_ played Grand Tree.
+- kblamo_ evolved Chikorita to Bayleef on the Bench.
+- kblamo_ evolved Bayleef to Meganium on the Bench.
+- kblamo_ shuffled their deck.
+kblamo_'s Mega Venusaur ex used Jungle Dump on HGDZB’s Steven's Metang for 210 damage. HGDZB's Steven's Metang took -30 less damage because of Grass Resistance.
+- Damage breakdown:
+   • Base damage: 240 damage
+   • Resistance to Grass: -30 damage
+   • Total damage: 210 damage
+
+- kblamo_'s Mega Venusaur ex healed 30 damage.
+HGDZB's Steven's Metang was Knocked Out!
+Steven's Beldum was discarded from HGDZB's Steven's Metang.
+kblamo_ took a Prize card.
+A card was added to kblamo_'s hand.
+HGDZB's Mega Mawile ex is now in the Active Spot.
+
+HGDZB's Turn
+HGDZB drew Basic Psychic Energy.
+HGDZB attached Basic Metal Energy to Mega Mawile ex in the Active Spot.
+HGDZB played Lillie's Determination.
+- HGDZB shuffled 2 cards into their deck.
+   • Buddy-Buddy Poffin, Basic Psychic Energy
+- HGDZB drew 8 cards.
+   • Basic Metal Energy, Full Metal Lab, Team Rocket's Petrel, Dawn, Steven's Metagross ex, Boss's Orders, Rare Candy, Steven's Beldum
+HGDZB played Steven's Beldum to the Bench.
+HGDZB's Genesect ex used Metallic Signal.
+- HGDZB drew Steven's Metagross ex.
+- HGDZB shuffled their deck.
+HGDZB played Full Metal Lab to the Stadium spot.
+- kblamo_ discarded Grand Tree.
+HGDZB ended their turn.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+kblamo_ played Wally's Compassion.
+- kblamo_'s Mega Venusaur ex healed 100 damage.
+- kblamo_ moved kblamo_'s 5 cards to their hand.
+   • Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Bayleef, Bug Catching Set
+- kblamo_ drew Mega Venusaur ex.
+- kblamo_ shuffled their deck.
+kblamo_'s Teal Mask Ogerpon ex used Teal Dance.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- kblamo_ drew a card.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Rare Candy.
+HGDZB played Boss's Orders.
+- kblamo_'s Chikorita was switched with kblamo_'s Mega Venusaur ex to become the Active Pokémon.
+kblamo_'s Chikorita is now in the Active Spot.
+HGDZB attached Basic Metal Energy to Mega Mawile ex in the Active Spot.
+HGDZB's Genesect ex used Metallic Signal.
+- HGDZB shuffled their deck.
+HGDZB's Mega Mawile ex used Gobble Down.
+- Damage breakdown:
+   • 0 Prize cards: 0 damage
+
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_'s Teal Mask Ogerpon ex used Teal Dance.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Mega Venusaur ex on the Bench.
+kblamo_ played Forest of Vitality to the Stadium spot.
+- HGDZB discarded Full Metal Lab.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex on the Bench.
+kblamo_ played Fezandipiti ex to the Bench.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Mega Skarmory ex.
+HGDZB played Mega Skarmory ex to the Bench.
+HGDZB played Dawn.
+- HGDZB drew Fezandipiti ex.
+- HGDZB shuffled their deck.
+HGDZB played Fezandipiti ex to the Bench.
+HGDZB played Rare Candy.
+- HGDZB evolved Steven's Beldum to Steven's Metagross ex on the Bench.
+HGDZB's Steven's Metagross ex used X-Boot.
+- HGDZB attached Basic Psychic Energy to Mega Mawile ex in the Active Spot.
+- HGDZB attached Basic Metal Energy to Steven's Metagross ex on the Bench.
+- HGDZB shuffled their deck.
+HGDZB's Mega Mawile ex used Huge Bite on kblamo_’s Chikorita for 260 damage.
+- Damage breakdown:
+   • Base damage: 260 damage
+   • Damage: 260 damage
+   • Total damage: 260 damage
+
+kblamo_'s Chikorita was Knocked Out!
+HGDZB took a Prize card.
+Buddy-Buddy Poffin was added to HGDZB's hand.
+kblamo_'s Mega Venusaur ex is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+kblamo_'s Fezandipiti ex used Flip the Script.
+- kblamo_ drew 3 cards.
+kblamo_'s Teal Mask Ogerpon ex used Teal Dance.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- kblamo_ drew a card.
+kblamo_ played Teal Mask Ogerpon ex to the Bench.
+kblamo_ played Lillie's Determination.
+- kblamo_ shuffled 6 cards into their deck.
+- kblamo_ drew 6 cards.
+kblamo_'s Mega Venusaur ex used Solar Transfer.
+- kblamo_ attached Basic Grass Energy to Mega Venusaur ex in the Active Spot.
+kblamo_'s Mega Venusaur ex used Jungle Dump on HGDZB’s Mega Mawile ex for 210 damage. HGDZB's Mega Mawile ex took -30 less damage because of Grass Resistance.
+- Damage breakdown:
+   • Base damage: 240 damage
+   • Resistance to Grass: -30 damage
+   • Total damage: 210 damage
+
+
+HGDZB's Turn
+HGDZB drew Dawn.
+HGDZB's Mega Mawile ex used Huge Bite on kblamo_’s Mega Venusaur ex for 260 damage.
+- Damage breakdown:
+   • Base damage: 260 damage
+   • Damage: 260 damage
+   • Total damage: 260 damage
+
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_'s Mega Venusaur ex used Jungle Dump on HGDZB’s Mega Mawile ex for 210 damage. HGDZB's Mega Mawile ex took -30 less damage because of Grass Resistance.
+- Damage breakdown:
+   • Base damage: 240 damage
+   • Resistance to Grass: -30 damage
+   • Total damage: 210 damage
+
+- kblamo_'s Mega Venusaur ex healed 30 damage.
+HGDZB's Mega Mawile ex was Knocked Out!
+- 3 cards were discarded from HGDZB's Mega Mawile ex.
+   • Basic Metal Energy, Basic Metal Energy, Basic Psychic Energy
+kblamo_ took 3 Prize cards.
+A card was added to kblamo_'s hand.
+A card was added to kblamo_'s hand.
+A card was added to kblamo_'s hand.
+HGDZB's Steven's Metagross ex is now in the Active Spot.
+
+HGDZB's Turn
+HGDZB drew Frillish.
+HGDZB played Frillish to the Bench.
+HGDZB's Fezandipiti ex used Flip the Script.
+- HGDZB drew 3 cards.
+   • Switch, Judge, Basic Metal Energy
+HGDZB's Steven's Metagross ex used X-Boot.
+- HGDZB attached Basic Psychic Energy to Steven's Metagross ex in the Active Spot.
+- HGDZB attached Basic Metal Energy to Steven's Metagross ex in the Active Spot.
+- HGDZB shuffled their deck.
+HGDZB attached Basic Metal Energy to Mega Skarmory ex on the Bench.
+HGDZB's Steven's Metagross ex used Metal Stomp on kblamo_’s Mega Venusaur ex for 200 damage.
+kblamo_'s Mega Venusaur ex was Knocked Out!
+- 7 cards were discarded from kblamo_'s Mega Venusaur ex.
+   • Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Ivysaur, Bulbasaur
+HGDZB took 3 Prize cards.
+Steven's Metagross ex was added to HGDZB's hand.
+Night Stretcher was added to HGDZB's hand.
+Unfair Stamp was added to HGDZB's hand.
+kblamo_'s Teal Mask Ogerpon ex is now in the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Poké Pad.
+- kblamo_ drew Ivysaur.
+- kblamo_ shuffled their deck.
+kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Lillie's Determination, Forest of Vitality
+- kblamo_ drew Mega Venusaur ex.
+- kblamo_ shuffled their deck.
+kblamo_ played Boss's Orders.
+- HGDZB's Frillish was switched with HGDZB's Steven's Metagross ex to become the Active Pokémon.
+HGDZB's Frillish is now in the Active Spot.
+kblamo_'s Fezandipiti ex used Flip the Script.
+- kblamo_ drew 3 cards.
+kblamo_ played Ultra Ball.
+- kblamo_ discarded 2 cards.
+   • Lana's Aid, Dawn
+- kblamo_ drew Mega Venusaur ex.
+- kblamo_ shuffled their deck.
+kblamo_'s Teal Mask Ogerpon ex used Teal Dance.
+- kblamo_ attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+- kblamo_ drew a card.
+kblamo_'s Teal Mask Ogerpon ex used Myriad Leaf Shower on HGDZB’s Frillish for 150 damage.
+- Damage breakdown:
+   • Base damage: 30 damage
+   • 4 attached Energy: 120 damage
+   • Total damage: 150 damage
+
+HGDZB's Frillish was Knocked Out!
+kblamo_ took a Prize card.
+A card was added to kblamo_'s hand.
+HGDZB's Steven's Metagross ex is now in the Active Spot.
+
+HGDZB's Turn
+HGDZB drew Ultra Ball.
+HGDZB's Fezandipiti ex used Flip the Script.
+- HGDZB drew 3 cards.
+   • Poké Pad, Switch, Lillie's Determination
+HGDZB played Unfair Stamp.
+- HGDZB shuffled 13 cards into their deck.
+   • Team Rocket's Petrel, Steven's Metagross ex, Rare Candy, Buddy-Buddy Poffin, Dawn, Switch, Judge, Steven's Metagross ex, Night Stretcher, Ultra Ball, Poké Pad, Switch, Lillie's Determination
+- kblamo_ shuffled 9 cards into their deck.
+- HGDZB drew 5 cards.
+   • Rare Candy, Buddy-Buddy Poffin, Steven's Beldum, Lillie's Determination, Team Rocket's Petrel
+- kblamo_ drew 2 cards.
+HGDZB played Steven's Beldum to the Bench.
+HGDZB's Steven's Metagross ex used Metal Stomp on kblamo_’s Teal Mask Ogerpon ex for 200 damage.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ retreated Teal Mask Ogerpon ex to the Bench.
+- Basic Grass Energy was discarded from kblamo_'s Teal Mask Ogerpon ex.
+kblamo_'s Teal Mask Ogerpon ex is now in the Active Spot.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Switch.
+HGDZB's Genesect ex used Metallic Signal.
+- HGDZB drew 2 cards.
+   • Steven's Metagross ex, Steven's Metagross ex
+- HGDZB shuffled their deck.
+HGDZB played Lillie's Determination.
+- HGDZB shuffled 6 cards into their deck.
+   • Rare Candy, Buddy-Buddy Poffin, Team Rocket's Petrel, Switch, Steven's Metagross ex, Steven's Metagross ex
+- HGDZB drew 6 cards.
+   • Full Metal Lab, Buddy-Buddy Poffin, Ultra Ball, Poké Pad, Dawn, Ultra Ball
+HGDZB played Ultra Ball.
+- HGDZB discarded 2 cards.
+   • Buddy-Buddy Poffin, Full Metal Lab
+- HGDZB drew Steven's Metagross ex.
+- HGDZB shuffled their deck.
+HGDZB's Steven's Metagross ex used Metal Stomp on kblamo_’s Teal Mask Ogerpon ex for 200 damage.
+
+kblamo_'s Turn
+kblamo_ drew a card.
+kblamo_ played Poké Pad.
+- kblamo_ drew Meganium.
+- kblamo_ shuffled their deck.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew Switch.
+HGDZB's Steven's Metagross ex used Metal Stomp on kblamo_’s Teal Mask Ogerpon ex for 200 damage.
+kblamo_'s Teal Mask Ogerpon ex was Knocked Out!
+HGDZB took 2 Prize cards.
+Jellicent ex was added to HGDZB's hand.
+Steven's Metang was added to HGDZB's hand.
+All Prize cards taken. HGDZB wins.
+

@@ -1,0 +1,66 @@
+Setup
+HGDZB chose tails for the opening coin flip.
+kblamo_ won the coin toss.
+kblamo_ decided to go first.
+HGDZB drew 7 cards for the opening hand.
+- 7 drawn cards.
+kblamo_ drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Psychic Energy, Rare Candy, Basic Fire Energy, Energy Search, Basic Fire Energy, Dusclops, Jamming Tower
+kblamo_ took a mulligan.
+- Cards revealed from Mulligan 1
+   • Basic Psychic Energy, Rare Candy, Basic Fire Energy, Energy Search, Basic Fire Energy, Dusclops, Jamming Tower
+HGDZB drew 1 more card because kblamo_ took at least 1 mulligan.
+- HGDZB drew a card.
+HGDZB played Lillie's Clefairy ex to the Active Spot.
+kblamo_ played Dreepy to the Active Spot.
+
+kblamo_'s Turn
+kblamo_ drew Basic Fire Energy.
+kblamo_ played Buddy-Buddy Poffin.
+- kblamo_ drew 2 cards and played them to the Bench.
+   • Dreepy, Duskull
+- kblamo_ shuffled their deck.
+kblamo_ attached Basic Fire Energy to Dreepy in the Active Spot.
+kblamo_ ended their turn.
+
+HGDZB's Turn
+HGDZB drew a card.
+HGDZB played Steven's Beldum to the Bench.
+HGDZB didn't take an action in time.
+
+kblamo_'s Turn
+kblamo_ drew Dragapult ex.
+kblamo_ played Crispin.
+- kblamo_ drew Basic Psychic Energy.
+- kblamo_ attached Basic Fire Energy to Dreepy in the Active Spot.
+- kblamo_ shuffled their deck.
+kblamo_ attached Basic Psychic Energy to Dreepy in the Active Spot.
+kblamo_'s Dreepy used Bite on HGDZB’s Lillie's Clefairy ex for 40 damage.
+
+HGDZB's Turn
+HGDZB drew a card.
+HGDZB didn't take an action in time.
+
+kblamo_'s Turn
+kblamo_ drew Dreepy.
+kblamo_ evolved Dreepy to Drakloak in the Active Spot.
+kblamo_ played Boss's Orders.
+- HGDZB's Steven's Beldum was switched with HGDZB's Lillie's Clefairy ex to become the Active Pokémon.
+HGDZB's Steven's Beldum is now in the Active Spot.
+kblamo_ played Dreepy to the Bench.
+kblamo_ played Buddy-Buddy Poffin.
+- kblamo_ drew 2 cards and played them to the Bench.
+   • Duskull, Dreepy
+- kblamo_ shuffled their deck.
+kblamo_'s Drakloak used Dragon Headbutt on HGDZB’s Steven's Beldum for 70 damage.
+HGDZB's Steven's Beldum was Knocked Out!
+kblamo_ took a Prize card.
+Basic Fire Energy was added to kblamo_'s hand.
+HGDZB's Lillie's Clefairy ex is now in the Active Spot.
+
+HGDZB's Turn
+HGDZB drew a card.
+Opponent was inactive for too long. kblamo_ wins.
+
+

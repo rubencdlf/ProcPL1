@@ -1,0 +1,54 @@
+Setup
+DrCompiler chose tails for the opening coin flip.
+DrCompiler won the coin toss.
+DrCompiler decided to go first.
+DrCompiler drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Ultra Ball, Switch, Basic Fire Energy, Meowth ex, Dragapult ex, Dreepy, Night Stretcher
+PJPJPJPJPJPJ drew 7 cards for the opening hand.
+- 7 drawn cards.
+DrCompiler played Dreepy to the Active Spot.
+PJPJPJPJPJPJ played Teal Mask Ogerpon ex to the Active Spot.
+
+DrCompiler's Turn
+DrCompiler drew Basic Psychic Energy.
+DrCompiler attached Basic Psychic Energy to Dreepy in the Active Spot.
+DrCompiler played Ultra Ball.
+- DrCompiler discarded 2 cards.
+   • Night Stretcher, Switch
+- DrCompiler drew Drakloak.
+- DrCompiler shuffled their deck.
+DrCompiler played Meowth ex to the Bench.
+DrCompiler's Meowth ex used Last-Ditch Catch.
+- DrCompiler drew Lillie's Determination.
+- DrCompiler shuffled their deck.
+DrCompiler ended their turn.
+
+PJPJPJPJPJPJ's Turn
+PJPJPJPJPJPJ drew a card.
+PJPJPJPJPJPJ played Buddy-Buddy Poffin.
+- PJPJPJPJPJPJ drew 2 cards and played them to the Bench.
+   • Fan Rotom, Chikorita
+- PJPJPJPJPJPJ shuffled their deck.
+PJPJPJPJPJPJ's Fan Rotom used Fan Call.
+- PJPJPJPJPJPJ drew 3 cards.
+   • Hoothoot, Hoothoot, Noctowl
+- PJPJPJPJPJPJ shuffled their deck.
+PJPJPJPJPJPJ played Hoothoot to the Bench.
+PJPJPJPJPJPJ's Teal Mask Ogerpon ex used Teal Dance.
+- PJPJPJPJPJPJ attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+- PJPJPJPJPJPJ drew a card.
+PJPJPJPJPJPJ attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+PJPJPJPJPJPJ ended their turn.
+
+DrCompiler's Turn
+DrCompiler drew Rare Candy.
+DrCompiler played Rare Candy.
+- DrCompiler evolved Dreepy to Dragapult ex in the Active Spot.
+DrCompiler attached Basic Fire Energy to Dragapult ex in the Active Spot.
+DrCompiler played Lillie's Determination.
+- DrCompiler shuffled Drakloak into their deck.
+- DrCompiler drew 8 cards.
+   • Poké Pad, Lillie's Determination, Buddy-Buddy Poffin, Dusknoir, Lillie's Determination, Dreepy, Buddy-Buddy Poffin, Buddy-Buddy Poffin
+DrCompiler played Dreepy to the Bench.
+Opponent conceded. DrCompiler wins.
