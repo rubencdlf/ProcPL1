@@ -1,5 +1,5 @@
 **Asignatura:** Procesadores del Lenguaje  
-**Grado:** Ingeniería Informática / Computadores / Software — Universidad de Alcalá (UAH)  
+**Grado:** Ingeniería Informática — Universidad de Alcalá (UAH)  
 **Curso Académico:** 2026-2027  
 **Profesorado:** Marçal Mora-Cantallops
 
